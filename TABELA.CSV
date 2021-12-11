@@ -1,0 +1,786 @@
+;cidade;descricao;contato;telefone;endereco;email;site
+;Sobradinho;Integra Arquitetura e Engenharia;Arq. Priscila Bernardi - 51 999666158 / Eng. Edgar Fernando Schutz - 51 980333522;(51) 999666158;Rua José Bonifácio, 87 96900000 Sobradinho, RS;integraarquiteturaeengenharia@gmail.com;
+;Flores da Cunha ;Olimóveis Urbanismo;Eng. Gustavo;(54) 3292.3300 (54) 9.99703606;Rua Garibaldi, 1020, sala 2 / Bairro Centro / CEP 95.270-000;gustavo@olimoveis.com.br;
+;ESTEIO;COLMEIA CONTAINERS LTDA - EPP;BÁRBARA REGINA DOS SANTOS MOTA;(51) 3473-0033;AV LINDOLFO COLLOR - 100;barbara@grupocolmeia.com.br;
+;Porto Alegre;Andora Construções;Eduardo Teixeira;(51) 3072-1518;R. Carlos Huber, 940 - Três Figueiras, Porto Alegre - RS, 91330-150;eduardo.teixeira@andoraengenharia.com.br;
+;Pelotas;MICHELON Construtora e Incorporadora;Henrique;(53) 3225.6900;Rua Santa Cruz 2257 CEP 96015-710;compras@michelon.com;
+;Pelotas ;Veja Engenharia;Bernardo;53 3227-0017;Rua Félix da Cunha, 715 CEP 96010-000 Pelotas - RS;compras@vejaengenharia.com.br;
+;PORTO ALEGRE;CONDOMÍNIO BSCT;Marcos Heitor;51- 3363-4787;AV TULIO DE ROSE, 100;marcos.moraes@zaffari.com.br;
+;Cachoeirinha;WWEngenharia;Eng. Valci Costa de Oliveira;(51)3041-2441 (51)98566-2203;Rua Esperança, 209 - Vila Parque Brasília, Cachoeirinha - RS, 94935-160;eng.valci@wwengenharia.eng.br;
+;Lajeado;Univates; Maicon Dezordi ; (51) 3714 -7030 ;Av. Avelino Talini, 171 - Bairro Universitário, Lajeado/RS - Brasil | CEP 95914-014; compras03@univates.br ;
+;Santa Cruz do Sul;Ditrevi Engenharia; Felipe / Compras Renan  ;  51 3121.2152 | 51 3121.2135 ;Rua Ramiro Barcelos 543 | Santa Cruz do Sul – RS;" felipe@ditreviengenharia.com.br; renan@ditreviengenharia.com.br ";
+;;;;;;;
+Industrias diversas;Araricá;Plastibordo;Josue;(51) 3560-3000;R. Piracicaba, 96 - Emancipacao, Araricá - RS, 93880-000;compras@plastibordo.com.br;
+;Araricá;Metalsinos;Manutenção - Roberto / Compras - Fabiano;(51) 3560-3300;Rod. Rs- 239, 3130 - Campo da Brazina, Araricá - RS, 93880-000;"manutencao@metalsinos.com.br; compras@metalsinos.com.br";
+;Araricá;Tubularte Móveis;Junior;(51) 3565 1544 - (51) 999630354;Rodovia RS239 – Km 33,8, nº 1850, Araricá - RS, 93880-000;junior@tubularte.com.br;
+;Araricá;Glassral;Franciele;(51) 3599-2369;Avenida José Antônio de Oliveira Neto, R. Azaléia, 1415, Araricá - RS, 93880-000;glassral@glassral.com.br;
+;Araricá;WS Metais para móveis;Leandro;(51) 3560-1409;Rua: José Apolônio da Costa, 2025 / Bairro: Estação América - Cidade: Araricá - CEP: 93880-000;compras@wsmetais.com.br;
+;Araricá;Cipatex;Emanuel - Manutenção;51 35601528;Rodovia RS 239 51 - Km 37, RS;;
+;Araricá;Quasa Metalização;Deise;(51) 3560 1821 ;Rua do Sírio, 180, Setor 107 / Bairro Campo da Brazina / Araricá/RS / CEP: 93.880-000;quasa@metalizacaoquasa.com.br;
+;Bento Gonçalves;Grupo Unicasa Móveis (Dell Anno, Favorita, New, Casa Brasileira);Matheus ;(54) 3455 4444;BR 470, Km 212,930, s/n | Cx. Postal 2505 | CEP 95707-540 | Bento Gonçalves - RS;matheus@unicasamoveis.com.br;
+;Bento Gonçalves;Italínea;Diego;(54) 3455.5100;;compras@italinea.com.br;
+;Bom Princípio;Madesa Móveis;Maico;51 - 35348000;Rodovia RS 122 KM 30 Bom Princípio - RS - CEP 95765-000;maico@madesa.com;
+;Camaquã;Industria de Móveis THB LTDA;Alessandro / Silvio;51 3671-7800;Rua Augusto Blanchardt da Silveira, 300 - Distrito Industrial Camaquã - RS - Brasil | CEP 96180-000;"compras2@moveisthb.com.br; compras@moveisthb.com.br";
+;Camaquã;Bartz ; Suellen - contato@bartzmoveis.com.br ;(51) 3692-1347;Rua Aylton Ulguim Campos, 1837 Distrito Industrial, Camaquã-RS;;
+;Campo Bom;Calbrás;Daniel;51 35811644;"Avenida dos Municípios, 1305 - Zona Industrial Norte
+Campo Bom - RS - CEP: 93700-000";compras@calbras.net.br;
+;Campo Bom;Multifôrmas;Alexandra;51 3598 2122 / 3597 4166;R. João Lampert, 320 - Bairro Ipiranga, Campo Bom - RS, 93700-000;ale@multiformas.ind.br;
+;Campo Bom;FCC;Carla Siebel;51 2129-2200;"Rua Paineira, 20, Bairro Operário 
+Campo Bom - RS";carla.siebel@fcc.com.br;
+;Campo Bom;Rigabona;Claudio;(51) 3585.1500;Rua São Paulo, 101 Centro - Campo Bom/RS;compras@rigabona.com.br;
+;Candiota ;CGTEE Candiota ;Glenio;(53) 3245.5100 ;gleniom@cgtee.gov.br;;
+;Canoas;Comprador sênior na Dana Indústrias Ltda;Desirée de Souza Carvalho;;;desireecpoa@gmail.com;
+;Canoas;Compradora na SLC Agrícola S/A;Tuani Gomes;;;tuanigomes@yahoo.com.br;
+;Capela de Santana;Essencis Soluções Ambientais; Ederson Vargas ;(51) 3500-3400;RS-240, 291, Capela de Santana - RS, 95745-000;evargas@essencis.com.br;
+;Caxias do Sul; Marcopolo SA ; Silvano Tondello ; (54) 2101 - 4155 ;;silvano.tondello@marcopolo.com.br;
+;Curitiba;Essencis Soluções Ambientais; Regiane ;(41) 3614-3050;R. dos Palmenses, 620 - São Miguel, Curitiba - PR, 81452-010;rgsilva@essencis.com.br;
+;Dois Irmãos;Herval Móveis e Colchões;Jair Hittler  / Marcio;(51) 3564 8300;Rodovia BR 116, Km 223,5 - Dois Irmãos/RS;"marcio.nonenmacher@taqi.com.br; jair.hittler@taqi.com.br";
+;Dois Irmãos;Mahindra do Brasil;Compras Sabrina Cornelli / Eng. Rodrigo Iplinski;(51) 3191-2020;Av. Dez de Setembro, 1097 - União, Dois Irmãos - RS, 93950-000;"cornelli.sabrina@mahindrabrazil.com; iplinski.rodrigo@mahindrabrazil.com";
+;Erechim;COMIL ÔNIBUS S.A.;Glaucia / ANDRE LUIS PETRY;54 3520-8700;Rua Alberto Parenti, 1382 - CEP 99706-404 Erechim – Rio Grande do Sul - Brasil;"glaucia@comilonibus.com.br; ANDRE@COMILONIBUS.COM.BR";
+;Franco da Rocha - SP;Essencis Soluções Ambientais; Priscila ;(11) 4442-7300;Acesso pela Rodovia dos Bandeirantes, Km 33, s/n - Caieiras, Franco da Rocha - SP, 07803-970;suprimentos.cai@essencis.com.br;
+;Garibaldi;Bortolini Mobiliário Corporativo;Camila;(54) 3433-2500;RSC-453, Rota do Sol, Km 90, Z. Industrial, Caixa Postal 57 95720000 Garibaldi, RS;suprimentos@bortolini.com.br;
+;GUAÍBA;THYSSENKRUPP ELEVADORES AS;RODRIGO SEVERO AVILA / IASMIN SANTOS iasmin.santos@thyssenkrupp.com;;R STA MARIA - 1000;rodrigo.avila@thyssenkrupp.com;
+;Igrejinha;Piccadilly (Fábrica);Carlos Cristiano Wicienski;(51) 3549-9600;R. Gen. Ernesto Dorneles, 577 - Centro, Igrejinha - RS, 95650-000;ccwicienski@piccadilly.com.br;
+;Igrejinha;Faccine Indústria e Comércio de Calçados;Elisandra;(51) 3545-1396;Rua Taquara, 166 - Figueira, Igrejinha - RS;comprasfaccine@gmail.com;
+;Igrejinha;Indústria de Calçados Dian Patris Ltda;Lucas;51 3545-1821;Av Ildo Menegheti, 860 / Igrejinha - RS - Brasil;compras@andrina.com.br;
+;Igrejinha;Usaflex Indústria e Comércio S/A;Gerente manutenção - Fernando / manutenção Gerson;(51) 3549-8100;R. Mal. Deodoro da Fonseca, 530 - Casa de Pedra, Igrejinha - RS, 95650-000;"fernando@usaflex.com.br; gerson@usaflex.com.br";
+;Igrejinha;Hunssemaq Indústria e Comércio de Máquinas;Diego;(51) 3545-1200;R. Igrejinha, 105 - Figueira, Igrejinha - RS, 95650-000;hunssemaq@uol.com.br;
+;Igrejinha;Injetados Paranhana LTDA.;william;51 3545.2465;Rua Getúlio Vargas, 348 - Centro - Igrejinha/RS - CEP 95650 000;compras@injepar.com.br;
+;Igrejinha;Calçados Tabita;Manutenção - Valdirnei / Compras Rafael;(51) 3545-1600;R. Benjamin Jung, 195 - Viaduto, Igrejinha - RS, 95650-000;"oficina@tabita.com.br; rafael@tabita.com.br";
+;Igrejinha;Carmína calçados;Laercio;(51) 3545-3117;R. Anselmo Waldemar Linden - 15 De Novembro, Igrejinha - RS, 95650-000;custos@carminacalcados.com.br;
+;Igrejinha;Agro Latina;Roberta;51 3549 9400;Estr. Picada Francesa, 950 - Casa de Pedra, Igrejinha - RS, 95650-000;compras@agrolatina.com.br;
+;Ivoti;Grupo Fröhlich, a Fritz & Frida;Eduardo Hub;(51) 2123-1800;Av. Bom Jardim, 2772, Bairro Cidade Nova - Ivoti / RS;eduardo@frohlich.com.br;
+;Nova Hartz;Calçados Marte Ltda; Claudio ;51 35658000;Rua Henrique Hoffmann, 3095 - Bairro Imigrante - CEP: 93890-000;claudio@viamarte.com.br;
+;Novo Hamburgo;SH Estruturas Metálicas;Compras - Carla / Diretor Vinicius;51 3594.3922;Rod. BR 116, 8195, Novo Hamburgo;"compras@shestruturas.com.br; vinicius@shestruturas.com.br";
+;Panambi;Empresa Engegran Indústria e Montagens LTDA;Geraldo;55 3375-1563 ou 3375-6666;Rua Emil Graser, 130;compras@engegran.com.br;
+;Parobé;Pandolfo Indústria de Ferramentas S/A;Bruna;(51) 3543-1160;Rodovia ERS239 Nº 10265 - KM 48 Bairro - XV de Junho, Parobé - RS, 95630-000;bruna@ferramentaspandolfo.com;
+;Parobé;Metalpar Indústria Metalúrgica Ltda.;Jose Augusto sem interesse;51) 3543-1517 contato@metalpar.com.br; Rua da Cascata, 90 · Centro · CEP 95630-000 · Parobé/RS;;
+;Parobé;Plastcromo Metalizações a Vácuo;Eduardo;(51) 3543-1464;RS-239, 6830 - Alexandria, Parobé - RS, 95630-000;eduardo@plastcromo.com.br;
+;Pelotas;Ecosul / Pelotas;Vanessa;(53) 2128-4408;;vanessa.dias@ecosul.com.br;
+;Porto Alegre;Aniger;Marco Lima;51 21259900;R. Armindo Eltz, 51 - P Santo Antonio, Campo Bom - RS, 93700-000;marco.lima@aniger.com.br;
+;Porto Alegre;TIMAC Agro; Tiago Bexaira -  ; 51 33828700 ;Av. Carlos Gomes, 1340 | 11º andar | Bairro Auxiliadora Porto Alegre | RS | CEP 90480-001; tiago.bexaira@timacagro.com.br ;
+;Porto Alegre;Pandrol;Anderson Larentis;51 3373,4300;Av Severo Dullius 2015 Porto Alegre RS Rio Grande do Sul CEP 90200-310 Brasil;anderson.larentis@pandrol.com;
+;Rio Grande;Granel Química - ODFJELL TERMINALS;Diego;53 32933000;Av. Almirante Maximiano Fonseca, 1000 - Zona POrtuária, Rio Grande - RS, 96201-360;;
+;Rio Grande;Martini Meat SA - 5282; Mauro Duarte ; (53) 32934658 / 53 3293-4650 ;Corredor do Bolacha, 5555 Bolacha - Setor D; mauro.duarte@martinimeat.com.br ;
+;Rio Grande;Tergrasa - Terminal Graneleiro S/A / Terminal Marítimo Luiz Fogliatto S/A - Termasa - 901; Rogério Moraes rogerio.moraes@termasa.com.br / Marcelo Carrasco  ; (53)30368650 ;Avenida Almirante Maximiliano Fonseca 6361 - Rio Grande, RS, 96204-040; marcelo.carrasco@termasa.com.br  ;
+;Rio Grande;Rio Grande Fertilizantes; Juliane - Compras / Rogério - Manutenção ; 53 32341769 - geral ;Av. Almirante Maximiano Fonseca, 6360 | Distrito Industrial - Rio Grande;" juliane@riograndefertilizantes.com.br; rogerio@riograndefertilizantes.com.br ";
+;Rio Grande;TIMAC Agro; Alex Balbela- compras / Leandro Scaglioni Manutenção ;;;" alex.balbela@timacagro.com.br; leandro.scaglioni@timacagro.com.br ";
+;Rio Grande;REFINARIA RIOGRANDENSE - 6016; Karine Martins - Compras / Otavio Garibalde - Manutenção ; (53) 3233-8079 / 32338181 ;;" karine.martins@refinariariograndense.com.br; otaviog@refinariariograndense.com.br ";
+;Rio Grande;Bunge Alimentos; Fabiana Souza - Compras - (Rubiari (53) 999450248 / Emerson(53) 32343671) - Manutenção ;53 - 32343616;Avenida Almirante Maximiano Fonseca, 4350 - Industrial Tamandaré, Rio Grande - RS, 96204-040;"fabiana.souza@bunge.com; emerson.resing@bunge.com";
+;Rio Grande;Bianchini S/A. Indústria, Comércio e Agricultura; Compras - Joaquim Perez / Manutenção - William ; (53)2126 6000 ;Avenida Almirante Maximiano Fonseca,  - Industrial Tamandaré, Rio Grande - RS, 96204-040;"joaquim.perez@bianchinisa.com.br; pcm.rg@bianchinisa.com.br";
+;Santa Maria;CVI Refrigeranes Ltda; Misael Leal de Brites mbrites@cvi.com.br/ Alcione Londero / Hermes ; (55) 3290 - 1500 ramal 3 ;BR-287 - Agroindustrial, Santa Maria - RS, 97037-400;" alondero@cvi.com.br; hgoncalves@cvi.com.br ";
+;Sapiranga;IBA Equipamentos Galvânicos;Evelyn;51 3523.4210 / 51 3523 4199;Rodovia RS 239, nº 5461, Vila Irma Sapiranga/RS - CEP 93805-798;compras@iba.ind.br;
+;Sapiranga;SULMAQ INDÚSTRIA METALÚRGICA LTDA;Werner;51 3599 3675 - 997396083;Rua Presidente Franklin Roosevelt , 484 - Sapiranga/RS;sulmaq@sulmaq.com;
+;Sapiranga;Grupo Cofrag;;51 3568 2044;Rua General Nascimento Vargas, 309, São Luis, Sapiranga/RS;compras@cofrag.com.br;
+;Sapiranga;Mared Textil;Carlos R. Schmitz;51 996269044;Rua Borges de Medeiros 966 B - Santa Fé - 93806-054;compras@maredtextil.com.br;
+;Sapiranga;Italiany;Paulo;51 35991566;Rua General Daltro Filho, 238 93800-236;paulo@italiany.com.br;
+;Sapiranga;Dream Fitness;Cleber / Alexandre;51 35296490;Rua São João, 255 ;compras1@dream.com.br;
+;Sapiranga;Ninus (omafel Ind. Embal. Plast. Ltda);Vinicius;51 3039.5859; Rua Duque de Caxias, 95 – Centro – Sapiranga;compras@ninus.com.br;
+;Sapiranga;CD - Lojas Quero-Quero; Gerente Eduardo ;51 997014530 / 997163803;;;
+;Sapiranga;Factorshoes; Evandro - financeiro@factorsoes.com.br ;5135591270;Rua Monte Castelo, 2651 - Bairro São Luiz;;
+;Sapiranga;Calcados Barbosa; Valdeci - 997265791 ;(51) 3559-1144;Rua Major Bento Alves, 3424, Amaral Ribeiro Sapiranga/RS - CEP 93821-480;;
+;Sapiranga;Mould Indústria de Matrizes Ltda; Geraldo ;51 - 35298482;Rodovia Rs 239, 471 - Industrial, Sapiranga - RS, 93813-050, Brasil;compras@mould.com.br;
+;Sapiranga;Endutex Brasil 2 - Fast Line; Manutenção Silvano - 51 995155348 ;(51) 3546-2000;Rodovia Rs 239, 31 - Rodovia, Sapiranga - RS, 93815-016;;
+;Sapiranga;NKS | Ötzi Vulcanizados; compras Jane ;(51) 3034-8700;Av. 20 de Setembro, nº 4747, Sapiranga - RS, 93815-016;compras@nks.com.br;
+;SAPIRANGA;COPYRIGHT PAQUETÁ;Lauriano;51-35998800(ramal 9437);"AVENIDA 20 DE SETEMBRO, Nº 4411 – BAIRRO SÃO JACÓ
+SAPIRANGA - RS";lauriano@paqueta.com.br;
+;Taquara;Primma Scarpa;Clovis;(51) 3542 2331 / 3541 3812;Rua Osvaldo Aranha , 1190 / Bairro Empresa – Taquara – RS Cep.: 95603-640;compras@primmascarpa.com;
+;Taquara;Dielat | Indústria e Comércio de Laticínios LTDA;Joselaine;(51) 3541-1876;Av. Sebastião Amoretti, 3.466 - Bairro Empresa CEP: 195.603-302 | Taquara / RS;compras@dielat.com.br;
+;Taquara;Pirisa Piretro Industrial Ltda;Compras - Cleber / Industria Flavio;051 3542.1944 - 051 995901944;Av. Oscár Martins Rangel, 5700 - Picada Francesa, Taquara - RS, 95600-000;"compras@pirisa.com; industrial@pirisa.com";
+;Taquara;Polistick Indústria Plásticos Ltda;Carolina;(51) 3541-5554;Av. Fernando Ferrari, 2195 - Ronda, Taquara - RS, 95600-600;polistick@terra.com.br;
+;Taquara;Ultraquil Química Industrial LTDA;Giovane Silva;(51) 3541.7066;Rua Ernesto Alves, 2707 - Taquara - RS;ultraquil@tca.com.br;
+;Três Coroas;Endutex Brasil Sede; Ramona / Paulo ;(51) 3546-2000;Rua Frederico Ritter, 1111 - Sander Três Coroas / RS / Brasil 95660-000;compras@endutex.com.br;
+;Venâncio Aires;Tramontini;Rafael / Ana;51 3738-3100 ramal 277;;"rafael@tramontini.com.br; ana@tramontini.com.br";
+;Viamão;A FERRAMENTAS GERAIS;Rodrigo Tozin;51-3358-1077;RODOVIA RS118/9393 PAVILHÃO;rodrigo.tozin@ovd.com.br;
+;Novo Hamburgo;Killing - Matriz;Luciano Zanelatto;51 3586.8100;Av. 1° de Março, 3430 Novo Hamburgo - RS - CEP 93320-428;luciano.zanelatto@killing.com.br;
+;Simões Filho - BA;Killing - Unidade BA;Oberd Regis;71 3418.4520;"Via Urbana, 1807
+Simões Filho - BA - 43700-000";;oberd.regis@killing.com.br
+;Santa Maria;Agrimec - Agro Industrial e Mecânica Ltda;Odilo Pedro Marion;055 32227710 - 999719057;Av. Pedro Cezar Saccol, s/n DI CEP 97030-440;marion@agrimec.com.br;
+;Aratiba - RS;Elevittá Elevadores Acessibilidade Inclusiva;Amanda Cristina Klein;54 996564527 / 3376 1602;Rua Orestes Valandro, 97, Aratiba/RS – Brasil;compras@elevitta.com.br;
+;Joinville - SC;Fremax;Decio Rosano Ribeiro;47 34616638 / 34616600;Rua Anaburgo, 5600;decio.ribeiro@fremax.com;
+;VARGEM BONITA;CELULOSE IRANI S/A; MARCOS SERENA / Alvaro José Salvador;;VILA CAMPINA DA ALEGRIA, BR 157 KM 57 - SN;"marcosserena@irani.com.br; alvarosalvador@irani.com.br";
+;Panambi;Bruning Tecnometal;Amauri Estefani da Silva;(55) 3376-9000 ramal 9485;Rua 25 de Julho, 2305, Panambi, Rio Grande do Sul, Brasil;amauri@bruning.com.br;
+;Porto Alegre;Arquisul;Silvana;51 3235.5200;Av. Jerônimo de Ornelas, 357 Porto Alegre / RS - Cep: 90040-341;"suprimentos@arquisul.com.br; arquisul@arquisul.com.br ";
+;Carlos Barbosa;Tramontina Muti S.A;Ércio Horbach;54 991159530 / 34618502;Rod. BR 470 KM 230 CEP 95185-000;ercio.horbach@tramontina.com;
+;Caxias do Sul - RS;Sumig Brasil;Alexandre Scola;(54) 3220 3900;"Av. Ângelo Corsetti, 1281 
+Caxias do Sul - RS | 95042-000";alexandre.scola@sumig.com;
+;Lages - SC ;Minusa;Jean Waltrick;(49) 3226 1000;BR 116 km 246, DI CEP 88517900 ;jean_waltrick@minusa.com.br;
+;Gravataí;ASTÓRIA PAPÉIS LDTA;Sérgio Ribeiro;(51) 3484.8728;Av. Antônio Gomes Corrêa 1380 Parque dos Anjos, Gravataí RS CEP 94190-300 RS;compras@astoriapapeis.com.br;
+;Indaiatuba - SP;SEW-EURODRIVE BRASIL LTDA.;Leandro Souza;19 2518-8057;Estrada Municipal José Rubim, 205 Rodovia Santos Dumont Km 49 Caldeira - Indaiatuba - SP - 13347 510;leandro.souza@sew.com.br;
+;Guaíba;Celupa;Cassia Giroto cassia.girotto@melitta.com.br (1127661206) / Antonio Silva / Jose Pires;51 2101-1100;Avenida Comendador Ismael Chaves Barcellos, 150 ;"antonio.silva@melitta.com.br; jose.pires@melitta.com.br";http://www.celupa.com.br/
+;Guaíba;Santher Fabrica de Papel Santa Therezinha S/a;Matheus Malafaia;(51) 3491-9400;Estrada Geral Guaíba-Barra do Ribeiro, 4500 Passo Fundo;matheus.malafaia@santher.com.br;https://www.santher.com.br/
+;Guaíba;Air Products - Gases Industriais;Junior;(11) 38561600 / (51) 3480-5200;R. São Geraldo, 1675 - Alvorada;junioren@airproducts.com.br;
+;Charqueadas;Ind. Equipamentos Industriais Jacuí;Mauricio - 995111820;(51) 3658-1209;Estrada RS401, 1999 - Distrito Industrial, 96745-000;mauricio@jacui.ind.br;http://www.jacui.ind.br/
+;Estrela;BRASILATA S/A EMBALAGENS METÁLICAS;Roberta;(51) 3712-8900 (51) 3712-1539;Rodovia Br 386, Km 350, CP 10 / 95880-000;compras.sul@brasilata.com.br;
+;Estrela;CALÇADOS ROIZI LTDA;Roque;(51) 3712-2811;Rua Corredor Particular, 40 / 95880-000;"roque@roizi.com.br; roizi@roizi.com.br";
+;Estrela;PLASTRELA EMBALAGENS FLEXÍVEIS LTDA;Fred;(51) 3720-1122 (51) 3720-1280;Rod. BR 386 KM 352 / 95880-000 / Pinheiros;rh@plastrela.com.br;
+;Gravatai;Fitesa ;Janine;51 3489700;Rua Paul Zivi, 80 - Distrito Industrial / 94045-430;jfontella@fitesa.com;
+;Guaíba;CMPC;Leandro Aleluia - leandro.aleluia@cmpcrs.com.br;(51) 2139-7211;R. São Geraldo, 1680 - Ermo,  92703-470;;
+;Guaíba;Sulina Oleos Vegetais;Claudia;51 3401-7500;Av. das Indústrias, 35 / Bairro São Francisco / 92500-000;adm3.rs@sulinaoleos.com.br;http://www.sulinaoleos.com.br/
+;Guaíba;Ambientaly;Jose Carlos;(51) 3491-9300;RUA ITAJAÍ, 10 – BAIRRO SÃO FRANCISCO / CEP 92500-000;josecarlos@ambientaly.com;
+;Arroio do Meio;GIRANDO SOL;Delmirio;(51) 3716-9400;Rua Arthur José Schroeder, 780 Bairro São Caetano Caixa Postal 08 / CEP 95940-000;manutencao@girandosol.com.br;
+;Cachoeira do Sul;Granol Industria Comercio e Exportação;Jeferson Becker;(51)37226550;Estrada Volta da Charqueada;jeferson.becker@granol.com.br;
+;Cachoeirinha;COLDBRAS AS;Rodrigo ;51 3303.2222;Rua Manoel José do Nascimento, 811 Distrito Industrial / Cachoeirinha - RS Cep 94930-340 ;compras@coldbras.com.br;
+;Bento Gonçalves;MÓVEIS CARRARO LTDA;Paulo Amaral;(54) 3455.1212;Avenida Nelson Carraro, 2001, Bairro Santo Antão - CEP 95702-798 - Bento Gonçalves/RS ;paulo.amaral@carraro.com.br;
+;Guaíba;Quimiflex;Josiane;(51) 3345.2972;Rua Santa Maria, 185 Prédio B – Guaíba/RS  CEP: 92500-000;cimentoguaiba@terra.com.br;
+;Guaíba;Lanobrasil Indústria e Comércio de Produtos Têxteis LTDA;Raul Oliveri;(51) 3480-2100;Rua Carlo Ventura, 150 Loteamento Engenho;rauloliveri@gmail.com;
+;IVOTI;ENZO MILANO INDUSTRIA E COMERCIO DE ARTIG;Jaqueline;51 3507-7070;AV BOM JARDIM, 1601;direcao@enzomilano.com.br;
+;Caxias do Sul;Tomasi;Sandro;(54) 3213.8000 |3213.3122;Rodovia BR 116, Km 153,2 - nº 22.581 Bairro São Leopoldo | Caixa Postal 322 CEP 95080-050 | Caxias do Sul - RS;sandro@tomasi.com.br;
+;SAPUCAIA DO SUL;GERDAU RIOGRANDENSE;HENRIQUE TEIXEIRA DA SILVA - CLEITON LARENTIS;;AV BORGES DE MEDEIROS - 650;"henrique.silva@gerdau.com.br; cleiton.larentis@gerdau.com.br";
+;Jaraguá do Sul - SC;Metalúrgica Trapp Ltda;Valmir Mendes;47 3371-0088 / (47) 2107-8800;Av. Pref Waldemar Grubba, 4545 - Cx. Postal 106 - Jaraguá do Sul - SC;valmir@trapp.com.br;
+;Atibaia - SP;Caloi;Augusto Burani;11 21197311;Rodv. Dom Pedro I Km 87 Condominio Empresarial Barão de Mauá 12954-260 ;aburani@caloi.com;
+;Porto Alegre;CAF Brasil;Marco Moraes - Comprador - Camila M. Friederichs - Técnica de Planejamento de Manutenção;51 - 33741164  / Camila 51 989226550;Av. Ernesto Neugebauer, 1985 - 90250 140;voltou;"marco.moraes@cafbrasil.com.br; camila.frederichs@cafbrasil.com.br"
+;São Francisco de Paula;DALZOCHIO INDUSTRIA DE PAPEIS LTDA ;Raphael; 54 99972-8793;EST RS 020 - KM 98 - 7165 95400-000 ZONA RURAL SAO FRANCISCO DE PAULA;raphael@dalzochio.ind.br;
+;Sapucia do Sul;Noeli Madeiras ;Alexandre;(51) 996736347;Rodovia, RS-118, 2602 - Capão da Cruz, Sapucaia do Sul - RS;alexandre@noeli.com.br;
+;Campo Bom;Polliboxsul Indústria de Adesivos;Almiro / Ana ;(51) 3587-3502 / W: 35871322;Rua Carlos Alberto Feiten, 100 - Bairro Industrial Campo Bom - RS - Brasil - CEP 93700-000;"compras@pollibox.com.br; compras1@pollibox.com.br";
+;Campo Bom;Diplax Indústria de Plásticos;Viviane;(51) 3067-7575;R. Visc. de Mauá, 85 - Centro, Campo Bom - RS;comercial@diplax.com.br;
+;Sapiranga;Metalúrgica Lozar;Ketlin;(51) 3560 1589;Rua São Jacó, 352, Bairro São Jacó - Sapiranga/RS - CEP 93800-000;atendimento@lozar.com.br;
+;São Sebastião do Cai;Delta Frio;Deivis - (51)9 95557683 - STANLEY 9994-3644;51 3536.1551;Rodovia RS122 Km 11 Bairro Conceição São Sebastião do Cai – RS;compras@deltafrio.com.br;
+;Cachoeira do Sul;SCREW Indústria Metalmecânica EIRELI;Mariana;51 3723.3000;Av Brasil, 2360;compras2@screw.ind.br;
+;Nova Araçá;Matrezan Indústria de Móveis Ltda;Marcos marco@matrezan.com.br;54 3477 1236;?Estrada RS 324 - Km 21 - Distrito Industrial Cep: 95.350-000 - Nova Araçá - RS;voltou;
+;Viamão;D´LINEA;Antoninho;(51)3443-4666;Avenida Presidente Getúlio Vargas nº 10315 Elsa - Distrito Industrial Viamão/RS CEP: 94420-015;antoninho@dlinea.com.br;
+;Encantado;ALFRS Indústria de Móveis Hospitalares;Marta ;(51) 3751-1014;Rua Argemiro Pretto, 340 / Lajeadinho Encantado - Rio Grande do Sul 95960-000;alfedital@outlook.com;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+Engenhos / Arrozeiras;Agudo;DICKOW & CIA LTDA;Beto / Douglas  douglas@dickow.com.br;(55) 3265-1325;Rodovia RSC 287, KM 187, s/n - CP 41 / 96540-000;"roberto@dickow.com.br;";
+;Agudo;Cooperagudo - Cooperativa Agricola Mista Agudo Ltda; Jaqueline ; (55) 3265 - 7000 ;Av. Concórdia, 2662 - centro, Agudo - RS, 96540-000; contabilidade@cooperagudo.com.br ;
+;Alegrete;COOP. AGROINDUSTRIAL ALEGRETE LTDA;Vagner Leal;(55) 3421-9200;Rua Venâncio Aires, 112;vagner.leal@caal.com.br;www.caal.com.br
+;Morro da Fumaça;FUMACENSE ALIMENTOS LTDA / RisoVita;Franck; (48) 3434 8888;Estrada BR 290, s/n, Bairro Nova Brasília, Alegrete, RS / Rodovia SC 443, nº 2.244, Bairro Barracão, Morro da Fumaça, Santa Catarina. CEP: 88.830-000;franck@fumacensealimentos.com.br;www.fumacensealimentos.com.br
+;Bagé;CORADINI ALIMENTOS BAGÉ;Felipe;(53) 3240-4500;Avenida Santa Tecla, 5000;almoxarifado@coradini.ind.br;
+;Bagé;CEOLIN & CIA LTDA;arroz@ceolin.com.br;(53) 3242-9011;Av. Santa Tecla, 2060 - Bairro Industrial;;www.ceolinalimentos.com.br
+;Bagé;CEREALISTA CORADINI LTDA;contato@cerealistacoradini.com.br;(53) 3247-1176;Caixa Postal, 32;;www.impulsoweb.com.br/coradini/
+;Bagé;COOP. AGRÍCOLA MISTA ACEGUÁ LTDA;camal@camal.com.br;(53) 3242-7355;Rua Marcilio Dias, 1642;;www.camal.com.br
+;Bagé;CORADINI ALIMENTOS LTDA;elio@coradini.ind.br;(53) 3240-4500;Av Santa Tecla, 5000 - Caixa Postal, 450;;www.coradinialimentos.com.br
+;Bagé;PILLON IND. E COM. DE ARROZ LTDA.;pillon@alternet.com.br;(53) 3242-7933;Av Santa Tecla 2650 - Caixa Postal Nº 466;;
+;BARRA DO RIBEIRO;DJM INDÚSTRIA E COMÉRCIO DE CEREAIS LTDA;djm@djmarroz.com.br;(51) 3371-8400;BR 116 Km 343;;
+;Cachoeira do Sul;Engenho Moraes Ltda ; Emileni ; (51) 3723 - 7600 ;BR 153, KM 377, Nº 894 - Marina, Cachoeira do Sul - RS, 96504-050; compras@moraes.com.br ;
+;Cachoeira do Sul;Engenho Treichel (Alfredo A. Treichel & Cia. Ltda.); Getulio / Luciano Junqueira ; (51) 3722 - 2383 ;Av. Brasil, 2593 - Centro, Cachoeira do Sul - RS, 96503-490; treichel@treichel.com.br ;
+;Cachoeira do Sul;IRMÃOS TREVISAN S/A;trevisan@trevisansa.com.br;(51) 3722-2469;Av. Brasil, Nº 791;;www.trevisansa.com.br
+;Camaquã;3 Tentos Agroindustrial;Marcelo Beiersdorf Grund / (Gerente de Projetos - Alexandre Maldone - 55 996166461 26/11/2020);51 995463337 ;Av. Dorval Ribeiro, 701 DI Camaquã;marcelo.grund@3tentos.com.br;
+;Camaquã;Santa Lucia (Blueville);Regis Brasil - regisbrasil@blueville.com.br;(51) 3692-9000 / 991271019;Rod. BR 116, Km 395 - Cep: 96180-000;;
+;Camaquã;Grupo HT Nutri;Cristiano;51 36928800;Rod. BR 116, Km 388;Cristiano@htnutri.com.br;
+;Camaquã;Viviana Alimentos;Osmar / Rafael 51-981475511;(51) 3671 2059 / 3671 2011;Av. José Loureiro da Silva, 1297 Bairro Carvalho Bastos;"osmar@viviana.com.br; rafael@viviana.com.br";viviana.com.br
+;Camaquã;Camil Alimentos;Diego Nunes / Luciano Boeira;(51) 36717300;BR-116, s/n - São CARLOS, RS, 96180-000;"Diego.nunes@camil.com.br; luciano.boeira@camil.com.br ";
+;Camaquã;Arrozeira Bom Jesus Ltda;Denilson;(51) 2127-0770;Rodovia BR 116 Km 394 Distrito Industrial próximo a entrada da cidade de Camaquã;denilson@arrozeirabomjesus.com.br;
+;Camaquã;Cooperativa Arrozeira Extremo Sul Ltda;;51 21270012;Estrada BR 116, km 388 Vila São Carlos;itamar.bernar@extremosul.com.br;
+;Candelária;ARROZEIRA CANDELÁRIA LTDA;arrozcan@terra.com.br;(51) 3743-1442;Rua 20 de setembro, 1576;;
+;Canguçu;Akatu Sementes;;(53) 981241678 / (53) 981220407;Estrada Cerro da Boneca, SN - BR 392 Km 121 / 1º Distrito | Canguçu - RS Cep: 96600-000 | Caixa Postal: 21;;
+;Canguçu;VHL Insumos e Cereais LTDA;;(53) 999944479 (53) 3252-2006;RS-265 / Posto Branco, 1º Distrito / Canguçu - RS / 96600-000 / Brasil;comercialbergmann@yahoo.com.br;
+;Capão do Leão;Arrozeira Adib Peixoto ;Julio;53 984180235 / 3275.5053;Av. Três de Maio, 3342 - Capão do Leão/RS - Brasil;compras@rainhabrasil.com.br;
+;Capivari do Sul;Codil Alimentos;Jéssica;(51) 3685-1202;Av. Telmo Sessim, 1061 - Centro, Capivari do Sul - RS, 95552-000;comprasrs@arrozcodil.com.br;
+;Capivari do Sul;Cooperativa Rizícola Pitangueiras Ltda;NÃO ENVIAR MATERIAL (logistica@coripil.com.br);(51) 3685-1177;Santos, Av. Adrião Monteiro, 1466 - Centro, Capivari do Sul - RS, 95552-000;;
+;Dom Pedrito;CORADINI ALIMENTOS DOM PEDRITO;Paulo - almoxarifado@coradini.com.br;(53) 3243-5649 * 3243-3066;BR 293, Km 250,2;;
+;Dom Pedrito;CORADINI ALIMENTOS LTDA;elio@coradini.ind.br;(53) 3243-3066;BR 293, Km 250,2;;www.coradinialimentos.com.br
+;Dom Pedrito;ENGENHO CORADINI LTDA;engenho@coradini.com.br;(53) 3243-3466;Rua Sete de Setembro, 2900 - Bairro Getúlio Vargas;;www.coradini.com.br
+;Dom Pedrito;ROBERTO CORADINI & CIA LTDA;rcalimentos@rcalimentos.com;(53) 3243-1056;Rua Serafim dos Anjos Freire, 3444;;www.rcalimentos.com
+;Eldorado do Sul;Rampinelli Alimentos;Valdomiro - eldourado2@rampinelli.com.br;51 3080-2000/ 93262066;BR-290, 116 - Boa Vista, Eldorado do Sul - RS, 92990-000;;voltou
+;Eldorado do Sul;ENGENHO A M. LTDA;engenhoam@engenhoam.com.br;(51) 3481-3940;Av Mário Ribeiro, 470 - Caixa Postal, 12;;http://metapublicidade.com/engenhoam
+;Forquilhinha/SC;Rampinelli Alimentos;Alexandre;48-3463 8700 / 48-999055944;Rod. Antônio Valmor Canela, 2300 Sanga do Coqueiro,Forquilhinha/SC;compras2@rampinelli.com.br;
+;Glorinha;GRACEL IND. E COM. CEREAIS LTDA;contato@extraalimentos.com.br;(51) 3487-1092;Rua Avelino Maciel Neto, 130, Centro;;www.extraalimentos.com.br
+;Glorinha;SOARES VARGAS & VARGAS LTDA;soares.vargas@terra.com.br;(51) 3487-1036;Rua Deoclecio Ferrugem, 20;;
+;Gravataí;GAITEIRO ALIMENTOS LTDA;Valdemir;(51) 3488-1732;Rod RS 118 KM 15 Nº 6880 / Bairro Arco Iris;faturamento@gaiteiroalimentos.com.br;www.gaiteiroalimentos.com.br
+;Itaqui;CAMIL ALIMENTOS S/A;camil@camil.com.br;(55) 3433-2121;Rua Dr. Afonso Escobar 1193 - Caixa Postal, 15;;www.camil.com.br
+;Itaqui;CEREAIS ITAPUÃ LTDA;cereaisitapua@bnet.com.br;(55) 3433-7222;Acesso Principal BR 472, s/n - Caixa Postal, 13;;
+;Itaqui;COMERCIAL DE PRODUTOS AGRÍCOLAS PITANGUEIRA LTDA;Emerson Braga;(55) 3433-2255;Av. Borges de Medeiros, 1463 - Caixa Postal 12;itapemasa@pitangueira.com.br;www.pitangueira.com.br
+;Itaqui;FOLETTO COMÉRCIO DE ALIMENTOS LTDA;atendimento@folettoalimentos.com.br;(55) 3433-2011;Vila Sesmaria Rocha;;www.folettoalimentos.com.br
+;Itaqui;PRADEBON & CIA LTDA;pradebon@terra.com.br;(55) 3433-1899;Av Borges de Medeiros 2292 - Caixa Postal, 48;;
+;Itaqui;RAROZ AGROINDÚSTRIAL LTDA;raroz@raroz.com.br;(55) 3433-1124;BR 472, Km 80 - Caixa Postal, 120;;www.raroz.com.br
+;Mata;Cereais Peger Ltda;peger@gpsnet.com.br;(55) 3259-1194;Rua Cap. Nicolau Schmidt, 200;;
+;Nova Prata;Ouro Fertil;Darli;54 32428300; Av. Presidente Vargas, 1454 - Centro - Nova Prata - RS;"contato@ourofertil.com.br; darli@terra.com.br";
+;Nova Santa Rita;ATL INDÚSTRIA E COMÉRCIO DE CEREAIS LTDA;arrozella@arrozella.ind.br;(51) 3479-5066;Br 386, Km 436 S/N;;www.arrozella.ind.br
+;Palmares do Sul;Cooperativa Arrozeira Palmares;Luciano compras / Luciano manut.;(51) 3668-1166;Largo Alípio Osório Azevedo, nº 10, Palmares do Sul - RS, 95540-000;"compras@arrozpalmares.com.br; industria@arrozpalmares.com.br";
+;Pantano Grande;CEREALISTA EIDT LTDA;Claudio;(51) 3734-1344;BR 290 Km 222;claudio@arrozceel.com.br;
+;Pelotas;CEREALISTA POLISUL- Alteza Alimentos;Silva;53 32833500;Av. Fernando Osório, 5508 - Três Vendas, Pelotas - RS;silva@polisulalimentos.com.br;
+;Pelotas;Grupo Brejeiro;Otavio;(53) 3303-6812 / 3273-6356;Rua Leopoldo Brod, nº 634 – B. Três Vendas;compras@brejeiro.com.br;
+;Pelotas;Camil ;Vitor Coelho;53 33095636;;;
+;Pelotas;Arrozeira Pérola Ltda;Luiz Roberto ;53 32736404;Leopoldo Brod, 572;luiz@arrozeiraperola.com.br;
+;Pelotas;JOSAPAR JOAQUIM OLIVEIRA S/A PARTICIPAÇÕES;Eliane Bassi / Rodrigo Bassi / Rogerio Teixeira  rogerio.texeira@josapar.com.br / Mario Soares;(53) 3284-1000 (53) 3284-1151;Rodovia BR 116 Km 512, 4001 / 96070-560 / Vila Princesa;"eliane.bassi@josapar.com.br; rodrigo.bassi@josapar.com.br;; mario.soares@josapar.com.br";
+;Pelotas;Puro Grão Ind. Com. de Arroz;Luis Diaz;53 - 32816397 / 30257066 ;Av. Herbert Hadler, 1385 DI;luisdiaz@purograo.com;
+;Pelotas;NELSON WENDT CIA LTDA;Marcelo Ferreira Ribeiro;53 32833326 / 981241522;Av. Leopoldo Broad, 101 / 96070-370 / Três Vendas;marcelo@nelsonwendt.com.br;
+;Pelotas;Engenho São Bento;Dilmar Zanatta - 53 997102406;53 3025.3500;BR 116, 6090;"contato@esbento.com.br; zanatta@esbento.com.br";
+;Pelotas;Arrozeira Pelotas;Marcelo Tavares - 53 991687574;53-3273-7488;Av. Fernando Osório, 5552 - Bairro Três Vendas - 96070-000 - Pelotas - RS;f7.eletrica@arrozeirapelotas.com.br;
+;Pelotas;ARROZEIRA DA QUINTA ALIMENTOS LTDA;Augusto;( 53) 32391147 / 53 999331987-Mario;RUA POETISA RIPOLL 182 VILA DA QUINTA;augusto@arrozeiradaquinta.com.br;
+;Pelotas;CEREALISTA OBELISCO LTDA;Marcos Vinicius Pizzol;(53) 3223-3746;Av. Fernando Osório, 2988, Três Vendas;mvpizzol@gmail.com;
+;Pelotas;EHLERT INDUSTRIA E COMÉRCIO LTDA;Helio Ehlert;(53) 3273-7330;Av Fernando Osório, 5270;helioehlert@Outlook.com;www.ehlertltda.com.br
+;Porto Alegre;SLC ALIMENTOS LTDA;slcalimentos@slcalimentos.com.br / becker@slcalimentos.com.br;(51) 2131-4455;Av. Borges de Medeiros, 2233 - 5º andar - Bairro Praia de Belas;;www.slcalimentos.com.br
+;Rio Grande;CAMIL ALIMENTOS S/A;Manutenção - Josimar Souza;(53) 3237-9119;Rod BR 392, Km 43, s/nº;josimar.souza@camil.com.br;www.camil.com.br
+;Rio Pardo;Líder do Sul Alimentos Ltda.;liderdosul@liderdosul.com.br;(51) 3731.2100;BR 471 s/n km 161 - Distrito Industrial - RS - 96640-000;;
+;Rosário do Sul;COOP. AGROINDUSTRIAL ROSÁRIO DO SUL LTDA - COARROZ;coarroz@coarroz.com.br;(55) 3231-2480;Rua Miguel Irion,100 - Caixa Postal, 06;;www.coarroz.com.br
+;Santa Maria;Primo Berleze e Cia. Ltda;Arlindo;(55) 3226-1355;;pberleze@terra.com.br;
+;Santa Maria;Freitas e Cia Ltda;Cesar;(55) 3222.6522;;arroz.freitas@gmail.com;
+;Santa Maria;J Fighera e Cia Ltda;Jairo 55 984279152;(55) 3226-1428;;;
+;Santa Maria;Marzari Alimentos Ltda;Alexandre;(55) 3301-3301;;alexandre@marzari.com.br;
+;Santa Maria;FAVARIN E CIA LTDA;favarin.cia@uol.com.br;(55) 3226-1376;Av. Osvaldo Cruz, 1044, Km 03;;www.favarin.com.br
+;Santa Vitória do Palmar;JORGE COUTINHO SCHMIDT;ccordao@terra.com.br;(53) 3261-1489;Estr. da Canoa, 63 - Caixa Postal, 48;;
+;Santo Antônio da Patrulha;Bianchin Indústria Arrozeira;Isaac Eletrecista;51 984511365;Estr. da Costa, Santo Antônio da Patrulha - RS, 95500-000;;
+;Santo Antônio da Patrulha;ARROZAGRO CEREALISTA LTDA;arrozagro@arrozagro.com.br;(51) 3662-1942;Estr. do Morro Grande 4970 - RS 474, Km 01 - Caixa Postal 83;;www.arrozagro.com.br
+;Santo Antônio da Patrulha;DEMELLO ALIMENTOS LTDA;atendimento@demelloalimentos.com.br;(51) 3662-3100;Rod. Cristóvão Pereira de Abreu, 604;;www.demelloalimentos.com.br
+;Santo Antônio da Patrulha;REALENGO ALIMENTOS LTDA;realengo@realengo.com.br;(51) 3955-0926;Estr. do Morro Grande, 3801;;www.arrozrealengo.com.br
+;São Borja;CEREALISTA ALBARUSKA LTDA;atendimento@albaruska.com.br;(55) 3431-0050;Estr. São Borja - Santa Luzia KM 9;;www.albaruska.com.br
+;São Borja;CEREALISTA STRECK LTDA;strecksb@brturbo.com.br;(55) 3431-1802;BR 285 KM 554 - Caixa Postal, 23;;
+;São Borja;CIAGRO ALIMENTOS LTDA;sac@ciagroalimentos.com.br;(55) 3431-1840;ROD BR 472, KM 407,5 - Caixa Postal 42;;www.arrozciagro.com.br
+;São Borja;PIRAHY ALIMENTOS LTDA;pirahy@pirahy.ind.br;(55) 3431-0300;Rua Tristão de Araujo Nobrega, 1580;;www.pirahy.ind.br
+;São Gabriel;URBANO AGROINDUSTRIAL LTDA;saogabriel@urbano.com.br / luisomar@urbano.com.br;(55) 3232-8500;Rod. Br 290 Km 420;;www.urbano.com.br
+;São João do Polêsine;F Dotto e Cia Ltda - Engenho Nossa Senhora de Lourdes;;(55) 3289-1092;;;
+;São Lourenço;Pomerano alimentos (Cooperativa Mista de Pequenos Agricultores da Região Sul LTDA);Lauro Souza;53 984525085;RS 265, km 24,5 - Boa Vista / 6º Distrito de São Lourenco do Sul;manutencao@pomeranoalimentos.coop.br;
+;São Lourenço do Sul;ADB ALIMENTOS LTDA;contato@adbalimentos.com.br;(53) 3251-2266;Estrada Passo dos Baios, 1º Distrito - Caixa Postal 53;;www.adbalimentos.com.br
+;São Pedro do Sul;Pagliarin e Cia Ltda;Eduardo;(55) 3276.1100;;pagliarin@pagliarin.com.br;
+;São Pedro do Sul;FELICE INDÚSTRIA DE ARROZ LTDA;atendimento@soufelice.com.br;(55) 3276-1313/ Fax: 3276-1313;BR 287, Km 301;;www.soufelice.com.br/felicealimentos/
+;São Pedro do Sul;PAGLIARIN & CIA LTDA;pagliarin@pagliarin.com.br;(55) 3276-1100;Rua Jerônimo Gomes, 1155 - Caixa Postal, 29;;www.pagliarin.com.br
+;São Sepé;Arrozeira Sepeense S/A;Eduardo Gonçalves  55 9662-4047;(55) 3233-1408;;eduardo@arrozeira.com.br;
+;Sentinela do Sul;AGROPARR ALIMENTOS LTDA;Devid;(51) 3672-5000;BR 116, Km 350, Araçá Vencato - Caixa Postal, 80;compras@agroparr.com.br;www.agroparr.com.br
+;Sertão Santana;COMERCIAL DE CEREAIS MANINHO LTDA;Ricardo;(51) 3495 - 1159 / (51) 3495 - 1501;Estr. Boa Esperança, S/N - Km 1,2;arrozmaninho@terra.com.br;www.cereaismaninho.com.br
+;Sertão Santana;LINEO PINZON COM E BENEF CEREAIS LTDA;lpinzon@terra.com.br;(51) 3482-1216;Linha Exploração S/N - Vila Derrose Caixa Postal, 20;;
+;Sertão Santana;ROSINA ALIMENTOS EIRELI;Diego Koller;(51) 3495-1252;Estr. Linha Rosina, S/N, Km 02;diegokoller@rosina.ind.br;
+;Tapes;BEM ESTAR ALIMENTOS LTDA;Fabio;(51) 4063 - 9018;Rua A, nº 5001 - Distrito Industrial;compras@bemestaralimentos.ind.br;www.bemestaralimentos.ind.br
+;Uruguaiana;CAMIL ALIMENTOS S/A;camil@camil.com.br;(55) 3413-4044;Av Assis Brasil 1021, Bairro Santana;;www.camil.com.br
+;Uruguaiana;GENÉSIO CEOLIN & CIA LTDA;genesio@bnet.com.br;(55) 3413-1241;Avenida Senador Silveira Martins, 901;;www.grupoceolin.com.br
+;Uruguaiana;GUACIRA ALIMENTOS LTDA;Clodoaldo;(55) 3413-2176;Rua Érico Veríssimo, 1023;clodoaldo.vigao@guacira.com.br;www.guacira.com.br
+;Uruguaiana;ITAOBI IMPORT. E EXPORT. DE CEREAIS LTDA;itaobi@uol.com.br;(55) 3412-3399;BR 472, Km 587, S/N, Sesmaria Itapitacaí;;
+;Uruguaiana;SÃO JOÃO ALIMENTOS LTDA;Sergio;(55) 2102-1329;Rod BR 472, Km 7, S/N, Trevo Salto Sul;sergio@pateko.com.br;www.saojoaoalimentos.com
+;Uruguaiana;ZAELI ALIMENTOS SUL LTDA;Cristiano Borges;(55) 3413-4361;BR 472, Km 577, s/n;cristiano.borges@zaelisul.com.br;www.zaeli.com.br
+;Viamão;Engenho Viamonense Indústria e Comercio de Cereais Ltda;Leandro - Seu Nino;(51) 3485.1202;;"leandro@engenhoviamonense.com.br; nino@domcarlito.com.br";
+;Viamão;CIRIMBELLI BENEFICIAMENTO DE CEREAIS EIRELLI;rocha@cirimbellicereais.com.br;(51) 34851301;RS 040 KM 11 Nº 1181 CX.P.146;;
+;Viamão;J. M. ROCHA & CIA LTDA;jmrocha@via-rs.net;(51) 3485-1131;Av Senador Salgado Filho, 11181 - Caixa Postal, 146;;www.fiuzaecirimbelli.com.br
+;São Francisco de Paula;Deutschips (MDA Comércio e Transportes de Cereais LTDA. EPP);Alã; 54 3244-2176 | 54 99978-7615;"Rua Benjamin Constan nº 2985 - São Francisco de Paula - RS
+CEP: 95400 000 |";ala@deutschips.com.br;
+;Planalto;Laticínios Frizzo;Leandro;(54) 3227-2322;Rod RS 504 KM 02, Linha Botafogo Planalto – RS 98470-000;compras.frizzo@hotmail.com;
+;São Sebastião do Cai;Conservas Oderich - Administração;Elet. Miguel / Móveis Leandro;(51) 3635-1609;Av. Osvaldo Aranha, 1118, São Sebastião do Caí - RS, 95760-000;"miguel@oderich.com.br; leandro@oderich.com.br";
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+Supermercados / Alimentos;Bento Gonçales - RS;Adria Alimentos do Brasil Ltda  (Grupo Mdias Branco); Andreia Grando ; (54) 2105 - 7300 ;Rua Espírito Santo, 440, Santa Rita, Bento Gonçalves/RS – CEP: 95.700-656; andreia.grando@mdiasbranco.com.br ;
+;Bento Gonçalves - RS;COOP VINÍCOLA AURORA LTDA - 388; Rosane Frumi / Valdir Busnelo - valdir.busnelo@vinicolaaurora.com.br ; (54) 2102 - 2000 (54) 2102-2001 ;; rosane.frumi@vinicolaaurora.com.br ;
+;Bento Gonçalves - RS;VINHOS SALTON S/A IND E COM;Jean / Giovanni;(54) 2105 - 1000 (54) 2105-1001;;"jean.poletto@salton.com.br; giovanni.marangon@salton.com.br";
+;Bento Gonçalves - RS ;VINÍCOLA MIOLO LTDA - 886;Wagner Dias / Andressa Peruzzolo;(54) 2102 - 1500;;"wagner.dias@miolo.com.br; andressa.peruzzolo@miolo.com.br";
+;Cachoeira do Sul - RS;Divinut Indústria de Nozes Ltda; Fabiane / Raul ; (51) 3722 - 8002 (51) 3723-6003 ;BR-153, 404 - Nossa Sra. de Fatima, Cachoeira do Sul - RS, 96503-260;" financeiro@divinut.com.br; assistenciatecnica@divinut.com.br ";
+;Cachoeira do Sul - RS;Tischler ;Alessandra Nosvitz;(51) 3722 4433;Rua Julio de Castilhos,413 Centro ;alessandra.nosvitz@tischler.com.br;
+;Carazinho - RS;Piracanjuba Unidade Rio Grande do Sul;Everton Tolotti / Ildovander Oliveira Ildovanderliveira@piracanjuba.com.br;(54) 3329-9400;Rua Empresário Agnello Senger, SN Carazinho/RS – CEP 99.500-000;Everton.tolotti@piracanjuba.com.br;
+;Goiania - GO;Piracanjuba - Escritório Sede;Adriana Kuhn;;;Adriana.kuhn@piracanjuba.com.br;
+;Governador Valadares - MG ;Piracanjuba Unidade Minas Gerais;Jadson Souza;(33) 3213-3700;Rodovia BR 259, KM 152, Zona Rural / Governador Valadares/MG - CEP 35.104-000;Jadson.souza@piracanjuba.com.br;
+;Lajeado - RS;Super Imec;Ana;(51) 3714 - 8100;;compras.adm@superimec.com.br;
+;Lajeado - RS;Prass Super e Atacado;Cristiano;(51) 37142747;Av. Franz Richter (Vicittá  Urban Center) Conventos, Lajeado / RS;cristiano@prass.com.br;
+;Lajeado - RS;Italianinho - Buona Cucina;Leandro S;(51) 3714.8170;Rod. RS 130.3880 - Bairro Moinhos - Lajeado/RS - CEP 95900-000;leandros@italianinhoalimentos.com.br;
+;Marília - SP;MARILAN ALIMENTOS S/A;Compras - Uso / manutenção Alysson;(14) 2105 – 6000;Av. José de Grande, 518/642 Bairro Fragata C – Marília – São Paulo CEP 17.519-903 – Caixa Postal 142;"uso.consumo@marilan.com; Alysson.silva@marilan.com";
+;Parobé - RS;Mosmann Alimentos Ltda;André;(51) 3543-8500;RS 239 km 43 numero 5701 - Funil, Parobé - RS, 95630-000;logistica@mosmannalimentos.com.br;
+;Passo Fundo  - RS;Stok Center (rede Comercial Zaffari);William - Engenharia;(54) 33113079;Rua General Osório, 1426 99010-140 Passo Fundo , RS , Brasil;engobras@zaffarinet.com.br;
+;Passo Fundo - RS;Comercial Zaffari;Lacirdo;(54) 33171688;;lacirdo@zaffarinet.com.br;
+;Pelotas;Macro Atacado Krolow;Alexandre;(53) 3223-1869;Av. Engenheiro Ildefonso Simões Lopes, 41 - Três Vendas, Pelotas - RS, 96060-290;alexandre@macroatacadokrolow.com.br;
+;Pelotas;UniSuper;Janaina - Secretária do Diretor da Rede;(53) 3271-9636;Pelotas - RS, 96050-500;secretaria@unisuper.com.br;
+;Pelotas - RS;Biscoito Zezé;Tiago (compras) Renato (Manutenção);(53) 3228-1671 - 53 999664747;Rua Comendador Rafael Dias Mazza, 581 / 96085-090 / Areal;tiago@zeze.com.br;
+;Portão - RS;Biscoitos Zagonel;Guilerme;(51) 3562.1667;R. Batinga, 109 - São Jorge, Portão - RS, 93180-000;Guilherme@biscoitoszagonel.com.br;
+;Porto Alegre - RS;Alibem Alimentos S/A;Elenise;51 2123 5000;Matriz -Av. Protásio Alves, 3326 - CEP.: 90410 007 - RS;compras@alibem.com;
+;Porto Alegre - RS;Allenge;Cristiano;51 3337.8822;"RUA ARABUTÃ, 427
+PORTO ALEGRE, RS – CEP 90240-470";compras@allenge.com.br;
+;Rodeio Bonito  - RS;Stefanello;;(55) 3798-1587;Rua Humberto Possamai, nº 103 - Distrito Industrial / 98360-000 | Rodeio Bonito / RS;adm@laticiniostefanello.com.br;
+;Santa Cruz do Sul - RS;Supermercado Miller;Fernando - gerente Geral / Luciano Almoxarifado;(51) 2106-8799;Av. Independência, 1113 - Santa Cruz do Sul/RS;"gerencia@supermiller.com.br; almoxarifado@supermiller.com.br";
+;São José dos Pinhais-PR;Nutrimental S.A Ind. E Com. de Alimentos;Robson Vinicius Raizer;41 32991239;Av. Rui Barbosa, 8153, Águas Belas | CEP 83040-550;robson.vinicius@nutrimental.com.br;
+;Sulina - PR;Piracanjuba Unidade Paraná;Marco Aurélio Dias;(46) 3244-8050;Estrada Linha Águas Termais SN  /  Lote 68, Gleba 04, Zona Rural  Sulina/PR;Marco.dias@piracanjuba.com.br;
+;Três Rios - RJ;Piracanjuba Unidade Rio de Janeiro;Hildo Souza;(24) 2251-9400;Rodovia BR-040 SN KM 20 SALA 03  Moura Brasil  Três Rios/RJ – CEP 25.821-491;Hildo.souza@piracanjuba.com.br;
+;São Paulo - SP;FABBRI Brasil LTDA;marketing.br@fabbri1905.com;11 27300530;Al. dos Nhambiquaras, 1438 Moema, São Paulo - SP;;
+;Capela de Santana;Micro Cervejaria Barley;BARLEY@BARLEY.COM.BR;51 3698.1215 | 99982.3385;RODOVIA ERS 240, 9980 - KM 23 | CAPELA DE SANTANA/RS;;
+;Portão;Anabe Proteínas;info@anabeproteinas.com.br;51 3191.2274 / 51 3191.2275;Estrada dos Lemmertz, 1500 – B. Estação Portão - Portão – RS - CEP: 93180-000;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+Sebrae;Goianésia - GO;Jalles Machado;Bruno Miranda 62-985817665 - Marquim - Marcos Gomes 62 8595-7189;(62) 3389-9000 Ramal 8848;Rod. GO 080 Km 75,1 Zona Rural Caixa Postal 04  CEP: 76388-899;bruno.miranda@jallesmachado.com;
+;São Marcos;Bepo;Marcel campeol - 54 991945411;51 32918200 ramal 373;BR 116 Km 113, nº 1155 ;;
+;Joinville - SC;Ciser - Parafusos e Porcas;Eduardo Nunes da Silva; 47- 34413674 ;Rua Cachoeira, 70 89205-070;eduardo.silva@ciser.com.br;
+;Contagem - MG;Arcelor Mittal;Leandro Paulo Sampaio Santos;31 - 33999839 - 992831244;Rua Quatro, 260 Bairro Riacho das Pedras 32250-030;leandro.ps.santos@arcelormittal.com.br;
+;Joinville - SC;Romaço Rolamentos;Ana Celia Menani;47-34811094;Rua Dr. João Colin, 985 América - 89.204-001;ana.menani@romaco.com.br;
+;Joinville - SC;CISER - Cia. Industrial H. Carlos Schneider;Fernando Alves dos Santos;47-34413512;RUA CACHOEIRA - 70;fernando.santos@ciser.com.br;
+;;;;;;;
+;MACAE;AFG INSPECAO E REPARO EM RISERS LTDA;Christiano Aguiar Pereira dos Santos ;;;caguiar@afglobalcorp.com;
+;JOINVILLE;COPPER INDUSTRIA E COMERCIO DE VERGALHOES EIRELI;ADRIELE BERKENBROCK PEREIRA ;;;adrieleberkenbrockp@gmail.com;
+;JOINVILLE;COPPER INDUSTRIA E COMERCIO DE VERGALHOES EIRELI;EDSON WERONDY ALVES DE ANDRADE ;;;edson@metalgroup.com.br;
+;PIRACICABA;EB INDUSTRIA E COMERCIO DE BOMBAS E FUNDIDOS EIRELI;WALDIR GOMES DA SILVA;;;comercial1@ebbombas.com.br;
+;TUBARAO;FERROVIA TEREZA CRISTINA S A;ANGELO HENRIQUE MARCON DARELA ;;;angelo.darela@ftc.com.br;
+;ARROIO DO MEIO;TINTAS NOBRE - FREE TINTAS LTDA - EPP;DIEGO SOUZA ;;;diegoputch@hotmail.com;
+;SÃO JOSÉ DO INHACORÁ;SÃO JOSE INDUSTRIAL - GERALDO N RECKTENWALD & CIA LTDA;Henrique André Schallenberger ;;;henrique@saojoseindustrial.com.br;
+;CAMPO LARGO;GERMER PORCELANAS FINAS S.A.;RAFAEL RIBINSKI ;;;compras@germerporcelanas.com.br;
+;RONDONÓPOLIS;HM SERVICOS E MANUTENCAO EIRELI;EDSON ARI HACK ;;;comercial@hmindustriamecanica.com.br;
+;NOVO HAMBURGO;INDUSTRIA DE MAQUINAS ERPS LTDA;MARLOS DAVI SCHMIDT ;;;marlos@erps.com.br;
+;MARAU;METASA SA INDUSTRIA METALURGICA;MAURICIO GUADAGNIN GATO / Cleber Vitalino Bilibio / JULIAN CONTERNO BORGES ;;;"mauricio.gato@metasa.com.br; cleber.bilibio@metasa.com.br; julian.borges@metasa.com.br";
+;SÃO PAULO;NEW COMERCIO, INDUSTRIA, IMPORTACAO E EXPORTACAO INC. LTDA;CHRISTIAN GUSTAVO DOS REIS FERREIRA ;;;compras@newimportexport.com.br;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;INDAIATUBA - SP;AGRITECH LAVRALE S A - MAQUINARIO AGRICOLA E COMPONENTES;Danilo Tedeschi Schroeder;19-38019061;;dschroeder@agritech.ind.br;
+;SÃO PAULO;AIR LIQUIDE BRASIL LTDA;HAROLDO DE OLIVEIRA ABREU;;;haroldo.abreu@airliquide.com;
+;SAO GONCALO - RJ;ArTIG Serviços Tecnicos Caldeiraria e Usinagem LTDA;Fernando Leal;21 - 27238161;;comercial@artigservicos.com.br;
+;Erechim - RS;Unindustria - Associação Brasileira de Industria e Fornecedores;HELTON RISCAROLLI LECZMANN;54 - 21065982;;compras@unindustria.ind.br;
+;PARANAGUA - SC;AOCEP - ASSOCIACAO DOS OPERADORES PORTUARIOS DO CORREDOR DE EXPORTAÇÃO;NIKOLAOS PANAGIOTIS KYRIAZIDIS;41 - 34253960;;COMPRAS@AOCEP.COM.BR;
+;PARANAGUA - SC;ATEXP - Associação dos Terminais do Corredor de Exportação de Paranaguá;Thiago Velloso da Cruz;41 - 34227995;;thiago.cruz@atexp.com.br;
+;Gravataí - RS;ASTORIA PAPEIS LTDA;SERGIO RIBEIRO DA SILVEIRA JUNIOR;51 - 34848728;Av. Antônio Gomes Corrêa 1380 Parque dos Anjos, Gravataí CEP 94190-300 RS;compras@astoriapapeis.com.br;
+;RIO DE JANEIRO;BALL BEVERAGE CAN SOUTH AMERICA S.A.;HANNA KLAJMIC SALAMA;21 - 21051485;;HSALAMA@BALL.COM;
+;LONDRINA - PR;BENVENHO & CIA LTDA;André Felipe Bueno  / Cristiane Messias de Souza;43 - 21054393;;"almoxarifado01@midigraf.com.br; compras@midigraf.com.br; almoxarifado@midigraf.com.br";
+;SÃO LEOPOLDO - RS;DATWYLER - BINS INDUSTRIA DE ARTEFATOS DE BORRACHA LTDA;Andressa Siméia da Silva Diaz / DANIELE DA ROCHA FAGUNDES;51 - 35115043;;"Andressa.diaz@datwyler.com; daniele.fagundes@datwyler.com";
+;UBERABA;BLACK & DECKER DO BRASIL LTDA;TIAGO HENRIQUE DA SILVA PEREIRA;34 - 33183979;;tiago.pereira@sbdinc.com;
+;SÃO MARCOS - RS;BORGHETTI - TURBOS E SISTEMAS AUTOMOTIVOS LTDA;ISABELLA BRUGALLI BORGHETTI;54 - 32912207;;"isabella.borghetti@masterpower.com.br; isabella.borghetti@boomatech.com.br";
+;NOVA PRATA - RS;BORRACHAS VIPAL S A;BERNARD SERPA CARVALHO / ELOI DA SILVA;51 - 32053502 / 51 - 32053029;;"bernard.carvalho@vipal.com.br; eloi.silva@vipal.com.br";
+;PASSO FUNDO - RS;IC USINAGEM INDUSTRIAL - BOSCARDIN E NASCIMENTO LTDA - ME;Fernando Frizon Oliveira;54 - 33273638;;compras@ic.ind.br;
+;PANAMBI - RS;BRUNING TECNOMETAL LTDA;DOUGLAS MALHEIROS WINTERFELD;55 - 33769000 ramal 9055;;douglasw@bruning.com.br;
+;CASCAVEL;MASCARELLO - CARROCERIAS E ONIBUS LTDA;Jefferson Araújo dos Santos ;45 - 991046273 / 45-32196076;;compras.jefferson@grupomascarello.com.br;
+;MACAE;COMERCIAL TROYKA DE ROLAMENTOS E PARAFUSOS LTDA;MARIO JORGE BARQUETA DONNINI DE SOUZA ;22 - 27591969;;troykapraia@troyka.com.br;
+;ITAPOA;ITAPOA TERMINAIS PORTUARIOS S/A;Marcelo Moreno Munhoz ;47 - 34438642;;marcelo.munhoz@portoitapoa.com;
+;PORTO ALEGRE;TMSA - TECNOLOGIA EM MOVIMENTACAO S A;Dejair Mairtins Silva;51 - 980530481 / 51 21313369;;Dejair.silva@tmsa.ind.br ;
+;SÃO LEOPOLDO;STIHL FERRAMENTAS MOTORIZADAS LTDA;Mauricio Kist;;;mauricio.kist@stihl.com.br;
+;RIO DE JANEIRO;MACNOR MARINE CONSULTORIA EMPRESARIAL LTDA;ADILES CARVALHO VIEIRA ;22 - 981884488 / 22 - 33239898;;adiles@macnor.com.br;
+;BELO HORIZONTE;MRV ENGENHARIA E PARTICIPACOES AS;Tayane Nascimento Malaquias ;71 - 992049992 / ;;tayane.malaquias@mrv.com.br;
+;CAXIAS DO SUL;MARCOPOLO AS;ADELAR JOAO SALVI ;54 - 21014790;;adelar.salvi@marcopolo.com.br;
+;CASCAVEL;COMIL SILOS E SECADORES LTDA;EZEQUIEL GOMES GONCALVES;45 - 21015054;;Ezequiel.goncalves@comil.com.br;
+;CASCAVEL;CONSILOS INDUSTRIAL LTDA;Vinicius Barbosa da Costa;4532283434;;vinicius.costa@consilos.com.br;
+;CURITIBA;COONAGRO COOPERATIVA NACIONAL AGROINDUSTRIAL;Jordy Cristian Cunha Francisco / Jessé Caio do Nascimento;4132811504 / 4130730463;;"jordy.francisco@coonagro.coop.br; jesse.nascimento@coonagro.coop.br";
+;NOVO HAMBURGO;Embasul - CTM INDUSTRIA E COMERCIO DE EMBALAGENS LTDA;André Luis Silva de Oliveira;5135959696;;almox2@embasul.com.br;
+;FRANCA;Dandaro - DANDARO 4X4 PECAS E ACESSORIOS AUTOMOTIVOS LTDA;Alexandre Cesar Dandaro;1634027066;;dandaro4x4@gmail.com;
+;SÃO PAULO;DANONE LTDA;ADRIANA ESTEVES FERREIRA MAXIMO;;;adriana.maximo@danone.com;
+;AREAL;D’ANGELO - DELICIAS DE AREAL ALIMENTOS LTDA;JOÃO CARLOS HASSELMANN;2422571180;;JOAOHASSELMANN@YAHOO.COM.BR;
+;PALMARES DO SUL;ELIPAL-INDUSTRIA E COMERCIO DE EQUIPAM AGRICOLAS LTDA;RAUL CAMARGO DE AZEVEDO;5136681333;;compras@elipal.com.br;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+Rede de Postos;Canoas;Comercial Buffon Combustíveis e Transportes Ltda. | MATRIZ;Alice Prado e Andrea / Anderson;51) 3415.8000 | (51) 2102.8000 | Ramal: 284;;"aliceprado@buffon.com.br; info@buffon.com.br";
+;Caxias do Sul;Postos Rodeio ;Renato;(54) 3027.2000;"Rua Sinimbú, 612 Bairro Nossa Senhora de Lourdes
+CEP: 95020-001  Caxias do Sul - RS";renato@postosrodeio.com.br;
+;Caxias do Sul;Rede Capoani Comércio de Combustíveis;Isabel;(54) 3229.3477;Capoani | BR 116 | Km 143 | Nº 12495 São Ciro RS, 95059-520;isabel@capoani.com;
+;Farroupilha;Posto Cavalleri (Matriz);Michele - Telefone Catia; (54) 3259 2000;RST 453, Km 109, Rio Burati - Farroupilha - RS;michele@postocavalleri.com.br;
+;Flores da Cunha;SIM - Rede de Postos;Aislan Veadrigo / Luis;(54) 3292 - 9999;;"aislan.veadrigo@simrede.com.br; compras01@simrede.com.br";
+;Marau;Postos Tradição;Marco;(54) 3342-2885;Rua Paralela Leste Perimetral 1692 - Perimetral - Marau / RS;compras@redetradicao.com.br;
+;Paraí;Rede Sander;Marcelo;(054) 3477 3500;Rua Pe. Felix Busata 1293, Centro - Paraí/RS;marcelo@redesander.com.br;
+;São Leopoldo;REDE ENERGIA - SEDE;Felicio;(51) 3591-2500;Rua São Nicolau, 473 - Cristo Rei / São Leopoldo/RS - CEP: 93020-480;felicio.sup@postosredeenergia.com.br;
+;São Lourenço do Sul;Postos Coqueiro - MATRIZ;João - Gerente;(53) 3251.7022 / (53) 32517027;São Lourenço do Sul/RS BR 116 KM 453 / CEP: 96170-000;joao@postoscoqueiro.com.br;
+;Sapiranga;Rede Chafariz;Lucas;51-993218083;;lucas@chafariz.com.br;
+;TORRES;Rede de Postos Primeiro;Maruza;(51) 3626-5259;R. José Bonifácio, 1315;maruzaprimeiro@hotmail.com;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+Frigorificos;ALEGRETE/RS;MFB MARFRIG FRIGORÍFICOS BRASIL S/A;Alisson;(55) 3421-8915 ;Endereço Est Alegrete/Itaqui, Km 07, Capivari, Alegrete, RS, CEP 97541-970, Brasil;alisson.borges@marfrig.com.br;
+;ALEGRETE-RS;MARFRIG GLOBAL FOODS S.A.;Danilo;(55) 3421-8900;;danilo.silva2@marfrig.com.br;
+;ALMIRANTE TAMANDARÉ-RS;AIRTON KLEIN; Jacob;(54) 3331-3714;;lolohartmann@hotmail.com;
+;Augusto Pestana;Sartori Alimentos;Juliana;(55) 996821582;Rodovia RS 522, km 27, Augusto Pestana - RS, 98740-000;gerencia@sartorialimentos.com.br;
+;AUGUSTO PESTANA-RS;MARCELO SARTORI;Marcelo;(55) 999329242;;marcelo@sartorialimentos.com.br;
+;Bagé;FRIGORÍFICO MERCOSUL S/A (Grupo Marfrig);Roziane Guimarães;53 3240.5700;Rua Anselmo Garrastazu, s/n / 96400-970 / Bairro Industrial;roziane.guimaraes@marfrig.com.br;
+;BAGÉ-RS;MARFRIG GLOBAL FOODS S.A.;José Aguilar;(53) 3240-5700 (53) 3240-5766;;jose.aguilar@marfrig.com.br;
+;BAGÉ-RS;MATADOURO FRIGORÍFICO PRODUCARNE LTDA;Edson;(53) 999789773;;"edson@producarne.com.br; edsonendres@terra.com.br";
+;Bom Princípio;Mercoaves;Elisiane - 51 993871392;(51) 3634 2608;Rua Mercoaves, 1156, Bairro Bom Fim Baixo CEP 95765-000 Bom Princípio - RS;compras@mercoaves.com.br;
+;Canguçu;Frigorifico Fita Azul;Roberta;53 32524177;;frigorificofitazul@bol.com.br;
+;Caxias do Sul;FRIGORÍFICO BRAVO LTDA (RS);Edite Menegat; (54) 32834010;;frigocristaldir@gmail.com;
+;CAXIAS DO SUL-RS;FRIGORÍFICO CRISTAL LTDA;Edite - frigorificocristaldir@gmail.com;(54) 3283-1428;;;voltou
+;CONDOR;COTRIPAL AGROPECUÁRIA COOP FRIGORÍFICO (CONDOR/RS);Leandro; (55) 3375 9000;BR 158 Km 142 - Condor/RS - CEP 98290-000;leandror@cotripal.com.br ;
+;CONDOR-RS;COTRIPAL AGROPECUÁRIA COOP.;Cléber;(55) 3375-9047;;cleber@cotripal.com.br;
+;Cruzeiro do Sul;Ovos Primavis - Cruzeiro do Sul - RS;;(51) 3764.1866;Estrada Geral de São Gabriel – Caixa Postal 29 Cidade: Cruzeiro do Sul Cep: 95930-000; jubawilgen@hotmail.com;
+;CRUZEIRO DO SUL-RS;FAROS INDÚSTRIA DE FARINHA E OSSOS LTDA;Daniel;(51) 3714-9800;;robinson@faros.ind.br;
+;Dois Irmãos;ALLES IND E COM DE CARNES E DERIV LTDA  (DOIS IRMÃOS/RS) - 6516;Priscilla Alles; (51) 3564 - 1895;;priscilla@allesalimentos.com.br;http://www.sicadergs.com.br/sicadrs
+;Encantado;Cooperativa dos Suinocultores de Encantado Ltda (COSUEL - DÁLIA);Ledi;(51) 3751 - 9000;;dalia@dalia.com.br;
+;Erechim;FRIGORÍFICO AS LTDA;Verena; (54) 3321-2671;;frigoas@gmail.com;
+;Erechim;FRIGORÍFICO AURORA ;Fabio Zanella  / Karine Cence ;(54) 3522-7063;"Rua Itália, 1526 - Sala 02 - Bairro Três Vendas
+CEP: 99700-000 Erechim - RS";"karine-cence@auroraalimentos.com.br; ";
+;Erechim;FRIGORÍFICO AURORA ;Luiz;(54) 3520 3900 ;Av. Jose Oscar Salazar, 1274 CEP: 99700-000 Erechim - RS;;
+;Farroupilha;FRIGOFAR IND DE ALIMENTOS LTDA;Muricio;(54)3261 9675;RODOVIA RST 453, 0 KM 109 RIO BURATI, FARROUPILHA - RS;"mauricio@frigofar.com.br; direcao@frigofar.com.br; alvaro@frigofar.com.br";
+;FARROUPILHA-RS;FRIGOFAR IND DE ALIMENTOS LTDA;Alvaro;(54) 3261-9679;direcao@frigofar.com.br;;
+;Garibalde;Carrer Alimentosclose;Daniel; (54) 3056.7600 / (54) 3462.2095 /;Estrada VRS 813, KM 12,9 - S/N Nova Sardenha - Farroupilha;compras@carreralimentos.com.br;
+;Garibalde ;Frigorífico Chesini;Rosele;(54) 3462.1384;Vila Rica, s/n 3º Distrito - 95180 - 000 Farroupilha.;"diretoria@chesini.com.br; compras@chesini.com.br";
+;Garibaldi;Frigorífico Nicolini ;Renata Dal Fre ;(54) 3462 8858 (54) 3462.8800;Estrada São Roque KM3 ;renata.dalfre@nicolini.com.br;
+;Garibaldi;Frinal S/A - Frigorífico e Integração Avícola - JBS Foods; Ana Kayser ; (54) 3388 - 1588 ;;;
+;HARMONIA;COOP. SUINOCULTORES DO CAÍ SUPERIOR LTDA. (HARMONIA/RS);Alvaro;51 3695.1155;RUA 25 DE JULHO, 112 - CENTRO  - HARMONIA - RS    CEP 95785-000;compras.ourodosul@gmail.com;
+;HARMONIA-RS;COOP. SUINOCULTORES DO CAÍ SUPERIOR LTDA;Ronei;(51) 3695-1155;;ronei@ourodosul.com.br;
+;HULHA NEGRA;MFB MARFRIG -PAMPEANO ALIMENTOS S/A;;(53) 3249-1500 / (53) 3249-1502;Estr. Santo Antônio, 5147, Hulha Negra - RS, 96460-000;gustavo.alves@marfrig.com.br;
+;HULHA NEGRA-RS;PAMPEANO ALIMENTOS S/A;Rui;(53) 3249-1500;;rui.mendonca@pampeano.com.br;
+;IBIAÇA-RS;RENATO TELLES & CIA LTDA;Cassio;(54) 3374-1257;;irmaosdametto@gmail.com;
+;LAGOA VERMELHA-RS;ZANIN COMÉRCIO DE PROD. ALIM. LTDA;Renan;(54) 996248369;;atual.fiscal@terra.com.br;
+;Lindolfo Collor;Frigorifico Madu;;51 996776663;;;
+;Marau;Abate e Distribuição de Carnes Rodeio LTDA.;Ronaldo;54 991559681;RS 324 Km 77 Interior - Marau - RS;;
+;Mato Leitão;FRIGORÍFICO MERCOSUL S/A- Frigorifico Reiter;;(51) 3784-4800  (51) 3784-4848;Rua João Reiter, 650 / 95835-000;;
+;Montenegro;DOUX FRANGOSUL S/A AGRO AVÍCOLA INDL;;(51) 3649-5666 (51) 3649-5884;Rua Buarque de Macedo, 3620 / 95780-000;;
+;Morro Reuter;Nutrifrango;Cristiano Bohn;(51) 35691099 - Ramal 206;BR 116 - KM 210, 1087 Picada São Paulo;compras@nutrifrango.com.br;
+;Morro Reuter;Granja Filippsen Ltda; Celso - 51-999761173;51-3569.1173;KM 213 – Segundo Distrito Cidade: Morro Reuter Cep: 93990-000;ovosfilippsen@filippsen.com.br ;
+;NOVA BRÉSCIA-RS;AGROINDUSTRIAL NOVA BRÉSCIA LTDA;Gelson;(51) 996811437;;titton@terra.com.br;
+;Nova Petrópolis;Granja Pinheiros Ltda ;Almoxarifado Matriz Jorge / Almoxarifado Frig. Adriano;(54) 3298.1080 - (54) 3298.1078;Rua da Pedreira s/n Linha Imperial CP 129 - 95150-000;"almoxarifado@granjapinheiros.com.br; almoxarifado1@granjapinheiros.com.br";
+;Nova Petrópolis;Salsicharia Seefeld Ltda ( SUIBOM);Cesar;(54) 3298-8080;RS 235 - Km 14 - Linha Brasil / Nova Petrópolis - RS 95150-000 ;cesar@suibom.com.br;
+;NOVA PRATA ;Agro – Avícola Moresco Ltda;; (54) 3242.1151;RS - RS 324, Km 03;" ernanimoresco@avimor.com.br; avimor@avimor.com.br  ";
+;Osório;Frigorífico Borrussia;Ronaldo;(51) 3501-6383;Estr. Geral da Borrússia, 370 - Borrussia, Osório - RS, 95520-000;qualidade@frigorificoborrussia.com.br;
+;Panambi;COTRIPAL Agropecuária Cooperativa ;Estevão (Compras) / Diogo Humberto Pfeifer / Maico Fagundes Gonçalves; (55) 3375 9000 (compras)/ 33759020 / 33759006;Gaspar Martins, 355 Centro CEP: 982800-000;"diogo@cotripal.com.br ; maico@cotripal.com.br ";
+;PANTANO GRANDE-RS;COMESUL BEEF AGRO INDUSTRIAL EIRELI;Leonardo;(51) 3734-1402;;leonardo@comesulbeef.com.br;
+;PAROBÉ;FRIGORÍFICO ZIMMER LTDA; Jaime 51 996264446 / Manutenção Jones 51 986386640;51 - 35991732;RS - 239 KM 37- Bairro Campo Vicente / Parobé/RS - CEP: 95630-000;jaime@frigorificozimmer.com.br;
+;PAROBÉ-RS;FRIGORÍFICO ZIMMER LTDA;Ladislau;(51) 3599-1732 (51) 3559-2635;;ladis@frigorificozimmer.com.br;
+;Passo do Sobrado;FRIGORÍFICO DO SUL LTDA (PASSO DO SOBRADO/RS);Gislaine / Davi Pedó Supervisor de Manutenção - 51999086916;51 37871282/ 51 999709822 e celular com whats: 51 980241524;;schena@frigorificodosul.com.br;
+;PASSO DO SOBRADO-RS;FRIGORÍFICO DO SUL LTDA;Jorge Fetzner;(51) 3787-1282;;comercial@frigorificodosul.com.br;
+;Passo Fundo;Doresul Ltda (Doresul Produtos Frigoríficos);Eder;54 3312-0008 - 054 3327-1756 Wats: (54)997106789;Rua Ângelo Covati, 1236 Bairro Leonardo Ilhia  / São José – Passo Fundo/RS /CEP: 99052-780;doresul@terra.com.br;
+;PAVERAMA-RS;FRIGORÍFICO PAVERAMA LTDA;Norberto;(51) 3761-1630 (51) 3567-1108;;carnesherval@uol.com.br;
+;Pelotas;Frigorifico Bonsul;Micheli;53 32736202;;recebiveisbonsul@hotmail.com;
+;Pelotas;Frigorifico Famile;"Tessalia tessalha@famile.com.br; tessalia@famile.com.br";53 32743100;Av. Alfredo Theodoro Born, 10517-10465 - Vila Princesa, Pelotas - RS, 96070-380;;
+;Pelotas;Castro Alimentos;Luis Fernando;53 32736565;Av. Fernando Osório - Centro, Pelotas - RS;manutencao@frigorificocastro.com.br;
+;Pelotas;Extremo Sul;Antonio;41 996563077;;;
+;Pelotas;Danby Cosulati;João Ortiz?? Cassia - Loja;(53) 3221 - 0299;"administracao@cosulati.com.br; ";lojadeprodutos@cosulati.com.br;
+;PELOTAS/RS;SOPELCO CONS. EXP. IMP. LTDA;CLEUSA;(53) 3275-6400;;cleusa@sopelco.com.br;
+;PELOTAS/RS;YORK BEEF FOODS ABATE DE ANIMAIS E COM DE CARNES E DERIV LTDA;ARIEL;(53) 3011-4010;;ariel@yorkfoods.com.br;
+;PONTÃO-RS;Cooperativa de Produção Agropecuária Cascata;Mário Luis Lill - 54 8407-6864;(51) 3503-0195;;coopcascata@yahoo.com.br;
+;PORTO ALEGRE-RS;CANARIN CARNES E ALIMENTOS LTDA;Vilmar;(51) 3342-8125;;canarin@canarin.com.br;
+;PUTINGA-RS;FRIGORÍFICO CASON LTDA;Gemiro;(51) 3777-1144;;fricason@hotmail.com;
+;Salvador do Sul;Granja Avícola Petry;Liege;(51) 3645-1870;Estr. Linha São João, Salvador do Sul - RS, 95750-000;contato@granjapetry.com.br;
+;Salvador do Sul;Granja Canarinho Ltda;Vai me ligar;51-3638-2011;BR 470 - Km 258, Salvador do Sul - RS, 95750-000;egon@granjacanarinho.com;
+;Salvador do Sul;Naturovos - ( Solar Comércio e Agroindustria Ltda);Mabel;(51) 3638 5500;Av. Duque de Caxias, 385 • 95750-000 • Salvador do Sul/RS;"suprimentos@naturovos.com.br; anderson.guth@lojasolar.com.br";
+;Santa Cruz do Sul;FRIGORÍFICO GASSEN LTDA.;Jessica;(51) 3717-9861;Linha Nova;compras@frigorificogassen.com.br;
+;Santa Maria;FRIGORÍFICO SILVA IND. E COM. LTDA. (/RS);Gianice;(55) 2103 - 2525 / (55) 2103 - 2505; BR 392, Km 08, Passo das Tropas | Santa Maria - RS;compras@frigorificosilva.com.br;
+;SANTA MARIA;FRIGORÍFICO NOVA ESTÂNCIA LTDA;Juliana;55 3211-1714;;frigorificonovaestancia@hotmail.com;
+;Santa Maria do Herval ;Frigorifico Boa Vista;Luiza;51 3567 1151;Rua Helmuth Schneider, nº 100 - Santa Maria do Herval - RS, CEP: 93995-000;compras@frigorificoboavista.com.br;
+;SANTA MARIA-RS;FRIGORÍFICO SILVA IND. E COM. LTDA;Cleber;(55) 2103-2525;;clebers@frigorificosilva.com.br;
+;SANTO ÂNGELO-RS;CALLEGARO E IRMÃOS LTDA;Paulo Renato;(55) 3313-2810 (55) 3313-6076;;paulorenato@frigorificocallegaro.com.br;
+;SANTO CRISTO - RS;ABATEDOURO GALLAS LTDA;Maiquel;(55) 3541-1236;;abatedourogallas@gmail.com;
+;São Gabriel;MARFRIG ALIMENTOS S/A;Luiz Leonardi;(55) 3237-2900;R Santa Brigida, 120, Santa Brigida, ;luiz.leonardi@marfrig.com.br;
+;SÃO GABRIEL-RS;FRIGORÍFICO FORESTA LTDA;Gustavo;(55) 3232-5510;;gerenciaadm@foresta.com.br;
+;SÃO GABRIEL-RS;MARFRIG GLOBAL FOODS S.A.;Danilo;(55) 3237-2900;;danilo.silva2@marfrig.com.br;
+;SÃO GABRIEL-RS;RAPHAEL VANHOVE & FILHOS LTDA;Ludwig;(55) 3232-6080 (55) 3232-5733;;vanhove@terra.com.br;
+;São Jeronimo;Frigozatto - Frigorifico Frigozatto Eireli;Roger Ferasso;(51) 3027-3571 / 99391480;compras01@frigozatto.com.br ;;
+;SÃO JERÔNIMO - RS;FRIGORÍFICO E TRANSP. IRMÃOS KROTH LTDA;Djéssica;(51) 998299593;;"compras@frigorifico3k.com.br; financeiro@frigorifico3k.com.br";
+;SÃO JOSÉ DO OURO;FRIGORIFICO POCA - MENDES & MALDANER LTDA. ;Claudia; (54) 3352-1526 ;Linha São Paulo - São José do Ouro - RS - CEP: 99870-000;;
+;SÃO JOSÉ DO OURO-RS;MENDES & MALDANER LTDA;Claudia;(54) 3352-1526;;frigorificopoca@outlook.com;
+;São Leopoldo;FRIGORÍFICO SÃO LEOPOLDO LTDA.;Maicon;(51) 3588-7010;Estr. Ivo Afonso Dias, 601 - São Borja, São Leopoldo - RS, 93032-550;frigcantarelli@yahoo.com.br;
+;SÃO LEOPOLDO;FRIGORÍFICO SÃO LEOPOLDO LTDA;;(51) 3588-7010;cooperleo@sinos.net;;
+;SÃO LEOPOLDO-RS;QUANTO ALIMENTOS IND. E COM. LTDA;Eduardo;(51) 3589-6500;;quanto@quantoalimentos.com.br;
+;São Lourenço do Sul;FRIGORÍFICO COQUEIRO LTDA;Elber;53 3251-7000;Localidade de Coqueiro, s/nº, 5º Distrito, São Lourenço do Sul - RS;compras@frigorificocoqueiro.com.br;
+;SÃO MARCOS;FRIGORÍFICO BOI NA BRASA LTDA;Patrícia 54 99237015;(54) 3291-3454;;patricia_michelon@hotmail.com;
+;São Sebastião do Cai;AGROSUL AGROAVÍCOLA INDL S/A;Luiz Alberto Ludwig;(51) 3635-6700;Rua Campestre Santa Teresinha, 1000 / 95760-000 / Campestre;compras@agrosul.com.br;
+;Sapiranga;Frigorífico CarneiroSul;Humberto (Beto);51 3106-2596 / 51 981589825;"industria@carneirosul.com.br; frigo.carneiro@gmail.com";;
+;SAPIRANGA-RS;COMERCIAL DE CARNES CARNEIRO SUL LTDA.;João Bernardo;(51) 3496-6121;;carneirosul01@gmail.com;
+;Sarandi;FRIGORÍFICO AURORA SARANDI;Rafael Paludo; (54) 3361-5500 ;Rodovia RS 404 Km - 2,1, , 99560-000, Sarandi - RS;rafael-paludo@auroraalimentos.com.br;
+;Seberi; Adelle - Labema Alimentos Ltda. ;;(55) 3746 - 2800 ramal 2885;Rod. BR 386 S/N 52 CEP: 98380-000 Seberi/RS;;
+;SELBACH;FRIGORÍFICO STOCK BOI;LUIS FERNANDO;(54) 3387-1141;;frigorificostockboi@gmail.com;
+;STA CRUZ DO SUL-RS;FRIGORÍFICO GASSEN LTDA;Fernando;(51) 3717-9861;fernandogassen@frigorificogassen.com.br;;
+;STA VITÓRIA DO PALMAR - RS;FRIGORÍFICO PAMPA SUL LTDA;Luciano;(53) 999764410;;pampasulfrigorifico@gmail.com;
+;STA VITÓRIA PALMAR-RS;FRIGORÍFICO PAMPA SUL LTDA;Luciano Oliveira;(53) 3263-3001 (53) 999996607 (53) 999455156;;pampasulfrigorifico@gmail.com;
+;STA. MARIA DO HERVAL-RS;FRIGORÍFICO E DIST. DE CARNES BOA VISTA LTDA;Edson;(51) 3181-0757;;contabilidade@frigorificoboavista.com.br;
+;Taquara;Matadouro Frigorifico Santo André;Marian;(51)35421173;Sem interesse;;
+;Teotonia;Lactalis do Brasil;Wanderlei Scholz; (51) 3762 5700;wanderleischolz@lactalis.com.br;;
+;Teutônia;Frigorífico Frigovale;Cesar;(51) 3773.1105 / (51) 98340-0236;ESTRADA LINHA CLARA , S/N - Linha Clara, Teutônia - RS, 95890-000;compras@frigovale.com;
+;TIO HUGO-RS;ÓLEOS BRASIL SUL IND. E COM. DE ÓLEOS;Adélio;(54) 3195-0066;;administrativo@oleosbrasilsul.com.br;
+;VACARIA-RS;APEBRUN COM. DE CARNES LTDA;Bruna Pasquali;(54) 3232-8585;;brunapasquali@apebrun.com.br;
+;Venâncio Aires;Frigorifico Sape - 1887;Sr. Antonio;(51) 980324811;;"antonio@frigorificosape.com.br; chico@frigorificosape.com.br";
+;VENÂNCIO AIRES-RS;FAMÍLIA KROTH IND E COM DE CARNES LTDA;Fábio;(51) 3793-4100;;fabio@frigorificokroth.com.br;
+;VENÂNCIO AIRES-RS;FRIGORÍFICO SAPÉ LTDA;Chico;(51) 3501-5984 (51) 3501-5965;;chico@frigorificosape.com.br;
+;VENÂNCIO AIRES-RS;Frigorífico Santos (Orlando Dos Santos & Filhos Ltda);Juliana Breunig;(51) 3741-1272;;julianabreunig@gmail.com;
+;VENÂNCIO AIRES-RS;NERI DO NASCIMENTO EIRELLI;Silvia;(51) 3749-0030;;silvia@opcaors.com;
+;WESTFALIA-RS;FRIGORÍFICO ANGUS LTDA;Marcos;(51) 99642067;;frigorificoangus@gmail.com;
+;Arroio do Meio;Sulati;Liselena M. Bersch Neumann 51 98511687;51 3716 1394;Rua Arthur José Schroeder, 932 São Caetano · Arroio do Meio/RS CEP 95940-000;sulati@sulati.com.br;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;Itaberai - GO;São Salvador Alimentos S/A;Caio Moura caio.moura@ssa-br.com;62 33757000;"Rod. GO-156, km 0, Zona Rural, Itaberaí – GO.
+CEP: 76.630-000.";;Voltou
+;Santa Fé de Goiás - GO;Frigorifico MataBoi LTDA;Eng. André Silveira;(62) 3385-8500;Rodovia GO 173 km 14,5 - ZONA RURAL, Santa Fé de Goiás - GO, 76265-000;andre.silveira@primafoods.com.br;
+;Uberlândia;Abatedouro Sadia - Perdigão (BRF);;(34) 3301-9884;R. Francisco Bernardes de Assis, 200 - Jardim Brasilia, Uberlândia - MG, 38401-360;;
+;Uberlândia;Fiel Distribuidora de Carnes Suínas;;(34) 3225-2459;Av. Pau Furado, km 6.8, Uberlândia - MG;;
+;Uberlândia;Fricopa Industria e Comercio de Carne Suina;Elcione;(34) 3211-1521;R: Republica do Piratini, 299 - Marta Helena, Uberlândia - MG, 38402-028;fricopa@uol.com.br;
+;Uberlândia;Frigorífico Confiança;Compras - Moacir;(34) 3233-4100;Rod. BR 050 , km 81 - São Jorge, MG, 38410-337;compras@frigconfianca.com.br;
+;Uberlândia;Frigorífico Luciana;Fernando;(34) 3228-2950;R. Prof. Leônidas Castro Serra, 150 - Pres. Roosevelt, Uberlândia - MG, 38401-224;abate@frigorificoluciana.com.br;
+;Uberlândia;Frigorífico Sadia (BRF);;(34) 3301-9000;Av. Cel. José Teófilo Carneiro, 1001 - São José, Uberlândia - MG, 38401-344;;
+;Uberlândia;Frigorífico São Pedro - Escritório;Marcos; (34) 3014-2051;Av. Floriano Peixoto, 3057 - Brasil, Uberlândia - MG, 38400-704;nubia.frigorificosaopedro@gmail.com;
+;Uberlândia;Incubatório Diamante Sadia (BRF);Carlos Antonio;(34) 33019947-33019901-32389400;Av. José Fonseca e Sílva, 848 - Jardim Patricia, Uberlândia - MG, 38414-068;carlos.antonio@brf.com;
+;Uberlândia;JBS Couros Uberlândia;Eduardo Moura;(34) 3218-0800;R. Décio Spirandeli Carvalho, 205 - Distrito Industrial, Uberlândia - MG, 38402-342;eduardo.moura@umg.jbs.com.br;
+;Uberlândia;Prima Foods S.A;Fabricio Bueno;(34) 3221-2700;Av. Rondon Pacheco, 3927 - Cazeca, Uberlândia - MG, 38400-015;fabricio.bueno@primafoods.com.br;
+;Uberlândia;Vita Carnes;Cleomar;(34) 91961510;Av. Cesário Alvim, 1751 - Nossa Sra. Aparecida, Uberlândia - MG, 38400-694;Via Whats;
+;;;;;;;
+;;;;;;;
+;Abelardo Luz - SC;Frigorífico Aurora Abelardo Luz;;(49) 3445-8300;Abelardo Luz - SC, 89830-000;auroraalimentos.com.br;
+;Água Doce - SC;Frigorífico Dri;Rafael;(49) 3524-0347;Linha Nova Vicenza S/N INTERIOR, Água Doce - SC, 89654-000;cocomercial@frigorificodri.com.br;
+;Arabutã  - SC;Frigorifico Arabutã;Klaus; (49) 3448-0506;Tv. Z, 307, Arabutã - SC, 89740-000;gerencia.klaus@frigorificoarabuta.com.br;
+;Chapecó - SC;Aurora Alimentos;Fabio Possa - Manutenção;(49) 3321-3700;283,, Estr. Chapecó, Guatambú - SC;fabio-possa@auroraalimentos.com.br;
+;Chapecó - SC;Aurora Alimentos - Fábrica de Ração Chapecó;Emerson Taz emerson-taz@auroraalimentos.com.br- Manutenção;(49) 3321-3000;R. João Martins, 219 D - São Cristóvão, Chapecó - SC, 89803-901;;Voltou
+;Chapecó - SC;Aurora Alimentos - Frigorífico Chapecó II;Silvio Mezomo;(49) 3321-2071;R. Barão do Rio Branco, 1272 E - Saic, Chapecó - SC, 89802-025;silvio-mezomo@auroraalimentos.com.br;
+;Chapecó - SC;Bugio Agropecuária - Frigorifico EcoFrigo;Compras - ;(49) 2049-0400;Av. São Pedro, 130 D - Centro, Chapecó - SC, 89801-300;;
+;Chapecó - SC;Carraro Alimentos;Lili;(49) 3328-0057;Chapecó - SC;contato@carraroalimentos.com.br;
+;Chapecó - SC;Ecofrigo Frigorífico;Compras - Cristiane Silva;(49) 3319-8200;SC 283, KM 08 Rodovia, SC-283, Chapecó - SC, 89800-000;cristiane.silva@ecofrigo.com.br;Voltou
+;Chapecó - SC;Frigorífico Ansolin Ltda;Vitório sem interesse;(49) 3323-0340;Linha Monte Alegre s/n Interior, Chapecó - SC, 89801-972;;
+;Chapecó - SC;Frigorífico Aurora Chapecó;Fabio Possa - Manutenção;(49) 3321-3700;Rua Aury Luiz Bodanese - Efapi, Chapecó - SC, 89817-000;;
+;Chapecó - SC;IACH - Industrialização de Suínos;Emerson Taz - Manutenção;(49) 3321-3000;R. João Martins, 219-D - São Cristóvão, Chapecó - SC, 89803-040;emerson-taz;
+;Chapecó - SC;Lussisa Alimentos;Cristiane Ferrarini critiane_ferrarini@yahoo.com.br;(49) 3329-2150;R. Heitor Vila Lobos, 1545 - Esplanada, Chapecó - SC, 89812-595;;Voltou
+;Chapecó - SC;Sabadini Comércio de Carnes;Flavio;(49) 3324-1164;R. Peru, 275 D - Líder, Chapecó - SC, 89805-180;sabadini@sabadinicarnes.com.br;
+;Concórdia - SC;Frigorífico Mattei;Adriana;(49) 3442-9483;Unnamed Rd, 89700-000, Concórdia - SC;financeiro@frigorificomattei.com.br;
+;Concórdia - SC;Frigorífico Girardi;;(49) 3442-5387;R. Bélgica - Das Nações, Concórdia - SC, 89700-000;;
+;Concórdia - SC;Frigorífico Varpi;Jacsiane;(49) 3442-9100;Rodovia SC 283 , KM 10 - Distrito de Santo Antônio, Concórdia - SC, 89703-780;compras@varpi.com.br;
+;Erval Velho - SC;Fribaz - Frigorífico Bazotti;Deisiane;(49) 3552-0134;Estrada Interior, Erval Velho - SC, 89613-000;deisiane@fribaz.com.br;
+;Gaspar - SC;Seara Alimentos LTDA;Ademar Albino / Mautenção Morales de Oliveira;(47) 3513-4800;Rod. Jorge Lacerda, 4455. Bairro - KM 20 - Poço Grande, Gaspar - SC;"ademar.albino@seara.com.br; morales.oliveira@seara.com.br";
+;Ipuaçu - SC;JMS Frigorífico de Suínos;;;SC-479, 458, Ipuaçu - SC, 89832-000;;
+;Irani - SC;Frigorífico Turmena;Priscila ;(49) 991829344 /  49 9805-3091;Irani - SC, 89680-000;contato@frigorificoturmena.com.br;
+;Itaipulândia - SC;Frigorífico São Miguel Ltda;Keli;(45) 3240-8787;Rodovia PR 497, SN KM 20 - Bairro Linha Lageado Do Cedro - 85.880-000 - Itaipulândia - PR;comercial3@friella.com.br;
+;Itajaí - SC;Seara Alimentos Ltda.;;(47) 3241-8500;Rod. Antônio Heil, 4155 - Itaipava, Itajaí - SC, 88316-001;;
+;Itapiranga - SC;Seara Alimentos;Eloi Kaiser;(49) 3678-8001;R. do Comércio, 1399, Itapiranga - SC, 89896-000;eloi.kaiser@seara.com.br;
+;Itapiranga - SC;JBS - Seara Alimentos LTDA.;Marcio Salabotto;(49) 3194-2037;Itapiranga - SC, 89896-000;marcio.salabotto@seara.com.br;
+;Joaçaba - SC;Cooperativa Central Aurora Alimentos - Frigorífico Aurora Joaçaba;Rafael Dambros;(49) 3202-3100;Distrito Industrial - Rua Normélio Zilio, BR-282, Joaçaba - SC, 89600-000;rafael-dambros@auroraalimentos.com.br;
+;Lacerdópolis - SC;Frigorífico D'Agostini e Posto de Vendas;Erika;(49) 3552-0196;R - Sete de Setembro, Lacerdópolis - SC, 89660-000;frigorificodagostini@gmail.com;
+;Lages - SC;Seara Industria;Tatiane Tomazi;(49) 3251-2003;Lages - SC;tatiane.tomazi@seara.com.br;
+;Luzerna - SC;Frigorífico Luzerna;Michele;(49) 3523-1775;Rodovia SC-452, s/n - Zona Rural, Luzerna - SC, 89609-000;frigorificoluzerna@hotmail.com;
+;Maravilha - SC;Frigorífico Aurora Maravilha;Eduardo Bodanese;(49) 3664-6300;BR-282, km610 - Industrial, Maravilha - SC, 89874-000;eduardo-bodanese@auroraalimentos.com.br;
+;Nova Erechim - SC;Friaves;Fabio Capelari-49 989029811;(49) 3333-3023 / 33333000 ;BR 282, KM 562, Bairro Suspiro - CEP: 89865-000 - Nova Erechim - SC;"manutencao@friaves.com.br; almoxarifado@friaves.com.br";
+;Palmitos - SC;Abatedouro e Frigorífico Pouco Preço;Claudio;(49) 3647-1670;R. Machado de Assis, 1, Palmitos - SC, 89887-000;abatedouropoucopreco@hotmail.com;
+;São José - SC;Seara Alimentos São José-SC;Vinicius Pessoa (9066) Tiago Alves(9025);(48) 3381-9000;Estr. Geral de Alto Forquilhas, 3853 - Colônia Santana, São José - SC;vinicius.pessoa@seara.com.br, tiago.alves@seara.com.br;
+;São José do Cedro - SC;Frigorífico Malvessi;;(49) 3643-0859;Linha São Vicente - s/n, São José do Cedro - SC, 89930-000;;
+;São Miguel do Oeste - SC;Frioeste;Marcelo;(49) 3622-0703;Estr. p/ Linha Filomena, s/n - São Gotardo, São Miguel do Oeste - SC, 89900-000;compras@frioeste.com.br;
+;São Miguel do Oeste - SC;Aurora Alimentos - Frigorífico São Miguel D'Oeste;Everaldo Santos;(49) 3631-0800;R. Dr. Nagibe Francisco - Santa Rita, São Miguel do Oeste - SC, 89900-000;everaldo-santos@auroraalimentos.com.br;
+;São Miguel do Oeste - SC;Frigorifico R. Silva;;(86) 3219-1576;R. Santa Me. Paulina, 3859 - Vila Irmã Dulce, São Miguel do Oeste - SC, 89900-000;;
+;São Miguel do Oeste - SC;JBS / SEARA Sao Miguel Do Oeste SC;;(49) 3197-2000;São Miguel do Oeste - SC, 89900-000;;
+;São Miguel do Oeste - SC;Frigorífico Aurora;;(49) 3622-7500;Avenida Nagib Francisco, 415 - Santa Rita, São Miguel do Oeste - SC, 89900-000;;
+;São Miguel do Oeste - SC;Seara Alimentos;Roberto Ecker;(49) 3631-2400;Av. Salgado Filho, 69 - Estrela, São Miguel do Oeste - SC, 89900-000;roberto.ecker@seara.com.br;
+;Seara - SC;Afrib Alimentos;Jefferson;(49) 3452-1460;R. Zacarias Nava, 1346 - Centro, Seara - SC, 89770-000;jefferson@afrib.com.br;
+;Seara - SC;Frigolaste Alimentos;Ricardo;(49) 3452-1905;SC-283, 04, Seara - SC, 89770-000;ricardo@frigolaste.com.br;
+;Seara - SC;JBS Seara;;;R. Getúlio Vargas, 38, Seara - SC, 89770-000;;
+;Xanxerê - SC;Frigorífico Arvoredo;Solange;(49) 3431-0091;Rod. SC 480 - Km 03 - - Barro Preto, Xanxerê - SC, 89820-000;compras2@frigorificoarvoredo.com.br;
+;Xanxerê - SC;Frigorífico Romani;;(49) 34419000;Linha Pesqueiro Meio - s/n, Xanxerê - SC, 89820-000;;
+;Xanxerê - SC;Frigorifico Rebelatto;;; Xanxerê - SC, 89820-000;;
+;Xanxerê - SC;Frigorífico GloboAves;;(49) 3446-1000;Lindóia do Sul - SC, 89735-000;;
+;Xanxerê - SC;Frigorífico Unibom;;;Unnamed Road, Xanxerê - SC, 89820-000;;
+;Xanxerê - SC;Seara Alimentos;;(49) 3433-0322;BR-282, 1 - São Romero, Xanxerê - SC, 89820-000;;
+;Xaxim - SC;Aurora Alimentos - Frigorífico Xaxim;Daniel;(49) 3353-8650;R. André Lunardi, 830 - Centro, Xaxim - SC, 89825-000;Danielv@auroraalimentos.com.br;
+;Xaxim - SC;Frigorífico Coloninho;Odair;(49) 3353-2573;R. Gov. Irineu Bornhausem, Xaxim - SC, 89825-000;contato@coloninho.com.br;
+;São Ludgero - SC;FRIGORIFICO FRIGO TITUS LTDA;Junior;(48) 3657-1628;SC-108 - Divina Providência, São Ludgero - SC, 88730-000;gta@frigotitus.com.br;
+;Laguna - SC;LAGUBRAS -Indústria e Comercio de Pescados;Telo;(48) 3644 5465 (48) 3644 5466;km 331, Estr. Geral Barranceira, 101, Laguna - SC, 88790-000;telo@lagubras.com.br;
+;Santa Cecília - SC;Frigorífico Irmãos do Valle;"Manutenção - Miguel; Compras-Franciele";(49) 3244-0027;Rodovia BR-116, Km 116, s/n, Santa Cecília - SC, 89540-000;"miguel@irmaosdovalle.com.br; compras@irmaosdovalle.com.br";
+;Itajaí / SC;ARFRIO;;;Av. Gov. Adolfo Konder,  2100 – S.Vicente  - Itajaí/SC;;
+;Quilombo - SC;FRIGORÍFICO AURORA QUILOMBO (SC);Mauricio Klein;(49) 3346-2100;Rodovia SC 157 Km - 55, , 89850-000, Quilombo - SC;mauricio-klein@auroraalimentos.com.br;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;CURITIBA ;BRF - CURITIBA CHEFÃO;Roberto Fukumoto;41 34018377;Roberto.fukumoto@brf.com;;
+;Alto Paraná - PR;Frigorifico Barra Mansa;Thiago Cunha;16 21055300;Sítio Nossa Sra. Aparecida, Alto Paraná - PR, 87750-000;;thiago.cunha@barramansaalimentos.com.br
+;Arapongas - PR;Frigomax Frigorífico e Com de Carnes;;(43) 3276-3686;R. Pinta Roxa, 172 - Vila Cascata, Arapongas - PR, 86701-460;;
+;Bituruna - PR;Frigorífico Sta Clara;Miriam;(42) 3553-2998;Av. Paraná, 446, Bituruna - PR, 84640-000;contato@frigorificosantabarbara.com.br;
+;Campo Magro - PR;Frigosantos;Fran;(41) 3677-5250;R. Profa. Iolanda Romeu, 90 - Passaúna, Campo Magro - PR, 83535-000;frantoaldo@hotmail.com;
+;Campo Magro - PR;Jmi Novak Frigorifico;Claudio;(41) 3272-1300;Rod. Eng. Ângelo Lopes, 14299 - Jardim Veneza, Campo Magro - PR, 83535-000;comprasfrigonovak@outlook.com;
+;Castro - PR;Frigorífico Nuzda;;(42) 3233-1469;R. João Carvalho de Macedo, 14 - Cantagalo, Castro - PR, 84178-460;;
+;Chopinzinho - PR;Frigorífico Bertoncelli;Roberta;(46) 3242-2244;PR-281, s/n - Lagoão, Chopinzinho - PR, 85560-000;frigorificobertoncelli@hotmail.com;
+;Cianorte - PR;Frigorífico Vale do Ivaí;;(44) 3629-4417;Estrada para São Lourenço - s/n Km 00 lt 946, Cianorte - PR, 87200-000;;
+;Cornélio Procópio - PR;Frigorífico Big Peixe;Carol;(43) 3542-3500;Sítio São Vicente - Agua Limpa, Cornélio Procópio - PR, 86300-000;financeiro@bigpeixe.net;
+;Cruzeiro do Oeste - PR;Frigoastra;Edson Bueno / Matheus;(44) 3676-8100;R. Peabiru, s/n - Km 1, Cruzeiro do Oeste - PR, 87400-000;"compras@frigoastra.com.br; compras3@frigoastra.com.br";
+;Cruzeiro do Oeste - PR;Frigorífico Frigocruz Ltda;Dyonathan de Paula Leite;(44) 3676-5190;Rodovia Pr 323 Km 281, Cruzeiro do Oeste - PR, 87400-000;almoxarifadofrigocruz@hotmail.com;
+;Curitiba - PR;Frigorífico Bizinelli;Johnny Teixeira;(41) 3274-3838;Rua Maria Bizinelli, 530 - Campo Comprido, Curitiba - PR, 81210-154;johnnyteixeira@hotmail.com;
+;Curitiba - PR;Frigorífico Família Costa;Grizieli;(41) 3207-2950;Estr. do Ganchinho, 4091 - Ganchinho, Curitiba - PR, 81930-160;financeiro@frigorificofamiliacosta.com.br;
+;Curitiba - PR;Frigorífico Terra Brasil;;(41) 3339-4640;R. Papa João Paulo I, 221 - Vista Alegre, Curitiba - PR, 82100-130;;
+;Curitiba - PR;Catei Armazém & Frigorífico; frigo.catei@gmail.com;(41) 3257-2111;R. Venezuela, 490 - Bacacheri, Curitiba - PR, 82510-100;;
+;Curitiba - PR;Associação Brasileira de Frigoríficos;http://www.abrafrigo.com.br/;(41) 3021-3221;Av. Cândido de Abreu, 427 - Centro, Curitiba - PR, 80530-000;;
+;Curitiba - PR;Frigorífico Tapajós;;(41) 3362-2717;R. Gen. Carneiro, 1280 - Centro, Curitiba - PR, 80060-150;;
+;Dois Vizinhos - PR;Frigorifico Miolar;Orlei;(46) 3536-1290;Rua laudelino miola - Santa Luzia, Dois Vizinhos - PR, 85660-000;compras@miolar.com.br;
+;Foz do Iguaçu - PR;Frigorifico Miolar - Unidade Foz do Iguaçu;Na Matriz;(45) 3525 6272;Av. Perimetral Leste, 468, esquina Rua Irani Garcia. Distrito Industrial Morumbi Foz do Iguaçu - PR CEP: 85858-740;;
+;Goioerê - PR;Frigorífico Marrua;Karen 44 - 98870165;(44) 3522-4041;BR-272, 428 - Jaracatiá, Goioerê - PR, 87360-000;compras@frigorificomarrua.com.br;
+;Irati - PR;Frigorífico DERGI;;;Irati - PR, 84500-000;;
+;Itaipulândia - PR;Abatedouro Bom Jesus - Frigorífico São Miguel Ltda - UNIDADE ITAIPULÂNDIA;;(45) 3240-8787;Rodovia PR 497, SN KM 20 / Bairro Linha Lageado Do Cedro / 85.880-000 - Itaipulândia - PR;;
+;Ivaí - PR;Frigorífico Frigonesi;contato@frigonesi.com.br;(42) 3247-6034;Rod Br 487, Km 54 - Atanazildo, Ivaí - PR, 84460-000;;
+;Ivaiporã - PR;FRIGORIFICO FRIGOCENTER;Lucas (43) 99690-7901;(43) 3472-2303;Estr. Vicinal - PARQUE INDUSTRIAL, Ivaiporã - PR, 86870-000;frigocenter.ivp@gmail.com;
+;Joaquim Távora - PR;Frigorífico Rajá Ltda;Andreia Fiats;(43) 3559-8100;Rodovia Governador Parigot de Souza, 092 - KM 330 - Zona Rural, Joaquim Távora - PR, 86455-000;andreia.fiats@hotmail.com;
+;Lindoeste - PR;Padrão Beef - Cooperativa de Carnes;http://www.padraobeef.com.br/;(45) 3237-1433;Rod. PRT 163, kM 174, Passo do Goes, cep 85826-000, Lindoeste/PR;;
+;Loanda - PR;Frigorífico 3R;https://frigorifico3r.com.br/;(44) 3425-5000;Rod. PR-182 Km 3, s/n - Zona Rural, Loanda - PR, 87900-000;;
+;Loanda - PR;Frigorifico Boi Gordo;;(44) 3425-4242;Estr. do Matadouro Mun., 2-70, Loanda - PR, 87900-000;;
+;Londrina - PR;Frigorífico Frigoprata;;(43) 3338-4120;R. Gonçalo Monteiro, 216 - Sabará I, Londrina - PR, 86066-070;;
+;Marmeleiro - PR;Frispar;contato@frispar.com.br;(46) 991290470;Marmeleiro - PR, 85615-000;;
+;Medianeira - PR;Friella Agroindustrial Ltda;Itacir / Vanessa;(45) 3240-8700;Rodovia BR 277 KM 680 - Bairro Bom Jesus - 85.884-000 - Medianeira - PR;"frete@friella.com.br; logistica@friella.com.br";
+;Medianeira - PR;Abatedouro Bom Jesus Ltda;;(45) 3240-8747;Rodovia BR 277 KM 680 S/N - Bairro Bom Jesus - 85.884-000 - Medianeira - PR;;
+;Medianeira - PR;Abatedouro Bom Jesus - FRIELLA AGROINDUSTRIAL;;(45) 3240-8700;Rodovia BR 277 KM 680  Bairro Bom Jesus 85.884-000 - Medianeira - PR;;
+;Medianeira - PR;Abatedouro Bom Jesus - ABATEDOURO BOM JESUS;;(45) 3240-8747;Rodovia BR 277 KM 680 S/N Bairro Bom Jesus  85.884-000 - Medianeira - PR;;
+;Nova Santa Rosa - PR;Frigorífico Schaedler;;(45) 3253-2177;Linha Gabiroba - s/n Km 1.5, Nova Santa Rosa - PR, 85930-000;;
+;Paiçandu - PR;Frigorifico Big Boi;http://frigorificobigboi.com.br/;(44) 3043-7900;Rodovia PR 323 - Km3 - Gleba Ribeirão Paiçandu - PR, 87140-000;;
+;Pato Branco - PR;Frigorífico Frigran;;(46) 3223-4924;Rodovia PR 280 - s/n Km 138, Pato Branco - PR, 85508-280;;
+;Pato Branco - PR;Frigorífico Bertinatto;Andre;(46) 3213-1171;Rodovia Barão 158 s/n Km 523 cx postal 357 Zona Rural, PR, 85504-670;andre@carnesbertinatto.com;
+;Rio Negro - PR;Frigorífico Primaz;Angela;(47) 3645-0447;Rodovia BR 116, Km 202 Bairro Roseira - Rio Negro - PR - 88830-000;recepcao@primazalimentos.com.br;
+;Salto Veloso  - PR;Frigorifico SZ;Emeline - ;(49) 3536-0665;Salto Veloso - SC, 89595-000;frigorificosv@hotmail.com;
+;Sâo Jorge D' Oeste - PR;Frigorifico Miolar - Unidade São Jorge D'Oeste;qualidade@miolar.com.br;(46) 3534-1862;End. Rodovia PR 281 KM 98 Sâo Jorge D' Oeste - PR;;
+;Sâo Jorge D' Oeste - PR;Frigorifico Miolar - Unidade Terminadora de Suínos;integracao@miolar.com.br;;End. Linha São Judas Tadeu Sâo Jorge D' Oeste - PR CEP: 85575-000;;
+;Sâo Jorge D' Oeste - PR;Frigorifico Miolar - Unidade de Confinamento de Novilho Precoce;integracao@miolar.com.br;;End. Linha São Judas Tadeu Sâo Jorge D' Oeste - PR Bairro. Linha Progresso CEP: 85575-000;;
+;São José dos Pinhais - PR;Frigorífico Juliatto;pedido@juliatto.com.br;(41) 3283-4700;R. Dr. Murici, 1501 - Costeira, São José dos Pinhais - PR, 83015-290;;
+;São José dos Pinhais - PR;Frigorifico Argus;Adriana;(41) 3283-8585;R. Noel Gomes de Almeida, 1100 - São Marcos, São José dos Pinhais - PR, 83090-145;secretaria.sjp@grupoargus.com.br;
+;São Miguel do Iguaçu - PR;Frigorífico São Miguel Ltda;Marcio Boreli;(45) 3240-8767;Rodovia BR 277 KM 695, S/N - Bairro Cacic - 85.877-000 - São Miguel do Iguaçu - PR;manutencao11@friella.com.br;
+;Toledo - PR;Frigorífico Bolson;contato@frigorificobolson.com.br;(45) 999710625 45 3277-3340;R. Edvino Frank, 2-18 - Centro Industrial Meinolfo H Heiss, Toledo - PR, 85915-170;;
+;Toledo - PR;Frigorífico Sardella;Carla;(45) 3252-7113;Toledo - PR;sardella.stuany@hotmail.com;
+;Umuarama - PR;Frigorífico Esplanada;Edison;(44) 3056-6233;R. Santiago, 3900 - Jardim Panorama, Umuarama - PR, 87501-658;esplanadamanutencao@hotmail.com;
+;;;;;;;
+;;;;;;;
+;Alta Floresta - MT;Frigorifico Alvorada;Cleonice Pellenz;(66) 3521-8301;Alta Floresta - MT, 78580-000;cleonicepellenz@hotmail.com;
+;Guarantã do Norte - MT;Frigorífico Redentor;;(66) 3552-3107;Avenida Alcides Moreno Scampelini s/n qd 1 lt 2A, Guarantã do Norte - MT, 78520-000;;
+;Juína - MT;Frigorífico RS;Manuela Ramos Savoine;(66) 98433-7598;Caminho Vicinal 10, Juína - MT, 78320-000;;
+;Juína - MT;Frigorifico Juina;;(66) 3566-2320;Linha 6, Chacara 110 Zona Rural, Juína - MT, 78320-000;contato@frigorificojuina.com.br;
+;Matupá - MT;Frigorífico Matupã Ltda;;(66) 3595-3500;BR-163, Matupá - MT, 78525-000;;
+;Matupá - MT;Frigorífico Frialto;;(66) 3511-8010;78525-000, Matupá - MT;;
+;Nova Mutum - MT;Frigorífico Excelência Natural Pork Alimentos S/A;Juliano Camargo / Neilson - Eng. Eletrecista 34 96786148;(65) 3308-5500;Rodovia BR 163 KM 585 - St. Industrial Sul, Nova Mutum - MT, 78450-000;juliano.camargo@excelenciamt.com.br;
+;Pontes e Lacerda - MT;Frigorífico JBS;;(65) 3266-9100;78253-000, BR-174, 1505, Pontes e Lacerda - MT, 78253-000;;
+;Rondonópolis - MT;Frigorifico Agra;Waldione;(66) 2101-2200;BR-163, S/n - Zona Rural, Rondonópolis - MT;manutencao.agra@agraagroindustrial.com.br;
+;Cuiabá - MT;(Matriz) Suinobras Alimentos Ltda Frigorífico ;Diogo Bonifacio;65 3027-3500;Av. Historiador Rubens de Mendonça, 2368 - Ed.Top Tower - Sala 1502 Bosque da Saúde - Cuiabá/MT - CEP: 78.050-000;diogo.bonifacio@suinobras.com.br;
+;Pedra Preta - MT;(Granja Petrovina) Suinobras Alimentos Ltda Frigorífico ;;66 3027-9500;Rod. BR 364 KM 600 - Zona Rural Pedra Preta/MT - CEP: 78.795-000;;
+;Rosário Oeste - MT;(Granja Diamantino) Suinobras Alimentos Ltda Frigorífico ;Luan Silva;(65) 3337-3600;Rod. BR 364 KM 600 - Zona Rural Diamntino/MT - CEP: 78.400-000.;luan.silva@suinobras.com.br;
+;Sinop - MT;Frigorífico Frigobom;Compras - Marcia (66999879770) / Manutenção - Sergio (66999553947);(66) 3905-1940;Setor Comercial, Av. das Embaúbas, 828 - St. Industrial Sul, Sinop - MT, 78550-110;Whats;
+;Sinop - MT;Frigorifico Forteza;;(66) 3515-6089;St. Comercial, Sinop - MT;;
+;Sorriso - MT;Frigorifico Nutribras;Compras - Felipe (66996279191);(66) 3545-4250;Anel Viário Norte, S/n - Zona Rural, Sorriso - MT, 78890-000;compras2@nutribrasalimentos.com.br;
+;Tangará da Serra - MT;Seara Alimentos LTDA;;(65) 3311-8000;Tangará da Serra - MT, 78300-000;;
+;Tangará da Serra - MT;Marfrig Frigorífico e Comércio de Alimento;;(65) 3311-3800;Rod MT 358, km 5, Setor W, VilaEsmeralda I, 78300-000, Tangará da Serra - MT;;
+;Várzea G - MT;Frigorifico Pantanal;Fabio ;(65) 3028-9550;Unnamed Road, Várzea Grande - MT;compras@163beef.com.br;
+;;;;;;;
+;;;;;;;
+;Frigorificos FRIMESA;;;;;;
+;Medianeira - PR;"Frimesa -  Sede 
+";Anderson Silva / Alisson Erico aerico@frimesa.com.br;45 3264-8000;Rua Bahia, 159;"andersonsilva@frimesa.com.br; ";
+;Aurora - SC;"Frimesa - Unidade Industrial de Lácteos
+";;47 3533–5183;Rua Francisco Klaumann, 175;;
+;Capanema - PR;"Frimesa - Unidade Industrial de Lácteos
+
+";Flavio;46 3552–1966;Av. Geraldo Fulber, 347;flavio@frimesa.com.br;
+;Marechal Cândido Rondon - PR;"Frimesa - Unidade Industrial de Lácteos - 
+
+";;45 3284–8000;Rodovia BR 163, Km 283;;
+;Matelândia - PR;"Frimesa - Unidade Industrial de Lácteos - 
+
+";Oscar Luis / Cleiton Nuche cnucheflm@frimesa.com.br;45 3262–8000;Estrada Waldemar Justen, 1157;"oscarluis@frimesa.com.br; ";
+;Marechal Cândido Rondon - PR;"Frimesa - Unidade Frigorífica - 
+
+";Janaina Silva / Leandro Girardi;45 3284-4955;Rod. BR 163, KM 282, S/N;jsilvaufq@frimesa.com.br, lgirardi@frimesa.com.br;
+;Aparecida do Taboado - MS;FRIGORÍFICO SUL LTDA MATRIZ - Aparecida do Taboado - MS;Fernando;(67) 3565-9000;;compras.apms@frigosul.com.br ;
+;;;;;;;
+;;;;;;;
+;Alagoinhas - BA;Frigoalas - Frigorífico Regional de Alagoinhas;Marco Antonio / Julio Nascimento;(75) 3182-3000;Est. Narandiba, Fazenda Sra. Santana - Narandiba, Alagoinhas - BA, 48107-000;"compras@frigoalas.com.br; gerencia@frigoalas.com.br";
+;Barreiras - BA;Fribarreiras Frigorífico Regional de Barreiras;;(77) 3614-5000;R-020, s/n - Distrito Industrial, Barreiras - BA, 47800-000;;
+;Complexo Industrial de Aratu) - BA;Cabra Forte Alimentos LTDA;Tina - @cabraforte.com;(71) 3507-0970 71 / 99700-9666 | 71 99991-9666 | 71 99680-9666;Rodovia BR 324 Km 15,5 S/N CIA FUNDO Próximo ao Rei Da Pamonha Sentindo Feira de Santa Salvador - CIA Sul Fundo, Simões Filho - BA, 43700-000;;
+;Eunápolis - BA;Frigorífico BoiNativo;André de Karvalho 73 - 999794192;(73) 99953-5300;Avenida Ruy Barbosa 479 Cx Postal 288 - Centro, Eunápolis - BA, 45820-970;andre.dekarvalho@gmail.com;
+;Feira de Santana - BA;Frigorífico Campo do Gado | Bahia;Ubirata;75 3624.5987 | 3221.2769;R. Heráclito Dias de Carvalho, 1301, Feira de Santana - BA;compras@campodogado.com.br;
+;Feira de Santana - BA;FRIFEIRA - Frigorífico Feira de Santana;;(75) 3683-1099;Rodovia BR 101 - s/n Km 177, Feira de Santana - BA, 44135-000;;
+;Itapetinga - BA;Frigorífico Regional Sudoeste ltda;Thiago;(77) 21013360;Av. Paralela, 2342, Itapetinga - BA, 45700-000;suprimento@confrigo.com.br;
+;Jequié - BA;Frigorifico Vale do Sol;Marcelo;(73) 98866-1404;Estr. p/ Frisuba, Jequié - BA;frigorificovaledosol@hotmail.com;
+;JUAZEIRO - BA;Frigorífico Campo do Gado | Bahia;;74 99800.2769;LOTEAMENTO TABULEIRO, S/N, RODOVIA BA 210, KM 01;;
+;Lauro de Freitas - BA;Frigorífico Big Frango;Fabio;(71) 3379-4148;Av. Luiz Tarquínio Pontes, 52 - Fazenda Pitangueira, Lauro de Freitas - BA, 42700-000;;
+;Lauro de Freitas - BA;BSS INDUSTRIA E COMERCIO DE ALIMENTOS LTDA;Ester;(71) 3252-0000;Estr. Dr. Maurício - Quintas do Picuaia, Lauro de Freitas - BA, 42700-000;suprimentos@grupobss.ind.br;
+;Luís Eduardo Magalhães - BA;Frigorífico FriLEM;contato@frilem.com.br ;77 3639-0279 / 77 9.9830-0204 ;Rodovia BR - 020, km - 202, Luís Eduardo Magalhães - BA, 47850-000;;
+;Miguel Calmon - BA;Frigocezar;frigocezar@gmail.com;(74) 3627-2629 / (74) 99969-9389;Rodovia BA131, Km 20 - S/N - Bairro: Bagres, Miguel Calmon-Bahia CEP: 44720-000;;
+;Riachão do Jacuípe - BA;FRIJACUÍPE;Vicente ;(75) 3264-3690 (75) 3264-3725;Rodovia Lomanto Júnior, S/N. Km 53. BR 324 - Riachão do Jacuípe;almoxarifado@frijacuipe.com.br;
+;Salvador - BA;Frigorífico do Mané;rh@frigorificodomane.com.br;(71) 3307-8141;Av. Afrânio Peixoto, 36 - Paripe, Salvador - BA, 40800-570;;
+;Salvador - BA;FRISA - Frigorífico Salvador;;(71) 3211-4486;R. da Etiópia, 5 - Jardim Cajazeiras, Salvador - BA, 41230-110;;
+;Salvador - BA;Frisuba - Frigorífico Sudoeste Bahiano;;(71) 3215-7203;Estrada Campinas de Pirajá, 105 - Campinas de Pirajá, Salvador - BA, 41280-117;;
+;Teixeira de Freitas - BA;Frisa Frigorífico Nordeste Alimentos;Jailson;(73) 3311-3311;Fazenda Caraipe Km 3, s/n - Fazenda Caraipe s/n, Teixeira de Freitas - BA, 45995-000;comprastf@frisa.com.br;
+;Valença - BA;Frigorífico Araújo;Jidalma Goes;(75) 3641-4072;R. Álvaro Maciel, 737, Valença - BA, 45400-000;frigorificoaraujo2009@gmail.com;
+;Vitória da Conquista - BA;CONFRIGO FRIGORIFICO LTDA;Carla;(77) 2101-3399;BR 116, Km 867 - Zona Rural, Vitória da Conquista - BA, 45025-906;suprimento01@confrigo.com.br;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;Anchieta - ES;FRIESUL -Frigorífico Estrela do Sul Ltda;;(28) 3536-7059;BR-101 km 352 s/n° zona rural, Anchieta - ES, 29230-000;;
+;Anchieta - ES;Frigofama Frigorífico Fama;;(28) 3536-3648;Av. Zumira Rosa Antunes, 656 - Justica, Anchieta - ES, 29230-000;;
+;Barra de São Francisco - ES;Frigorifico São Francisco;;;R. Ver. Lacy Costa, 417, Barra de São Francisco - ES, 29800-000;;
+;Cachoeiro de Itapemirim-ES;Abav Abatedouro Atílio Vivácqua Ltda;Alessandra;(28) 3200-5010;Rua João Batista Calegário, 139 – B. Aeroporto CEP 29314-020 – Cachoeiro de Itapemirim-ES;alessandra@cofril.com.br;
+;Cariacica - ES;#NOME?;Laila;(27) 3344-3020;R. das Mangueira, 120 - Vila Independência, Cariacica - ES, 29148-605;faturamento@maisboi.com.br;
+;Cariacica - ES;Frigorifico Vitoria;Fran;(27) 3434-5151;Rodovia Governador José Sette km13, S/N - Porto de Cariacica, Cariacica - ES, 29156-700;frigorificovitoria@fvdistribuidora.com.br;
+;Cariacica - ES;Mafrical - Frigorífico Cariacica;Viviane;(27) 3089-9700;Rod. Gov. José Henrique Sette, s/n - Planeta, Cariacica - ES;almoxarife02@mafrical.com.br;
+;Cariacica - ES;D'Frango Frigorífico;Setor de Iluminação;(27) 3344-7123;R. Rosa Paula Paulina, 25 - Santa Bárbara, Cariacica - ES, 29145-290;atendimento@dfrango.com.br ;
+;Cariacica - ES;Corella Frigorífico;Thais;(27) 3090-0202;Rua São Paulo Apóstolo, 16 - Tucum - Cariacica - ES, - Lote A2 - Tucum, Cariacica - ES, 29152-395;compras@corella.com.br;
+;Cariacica - ES;RS INDUSTRIA E COMERCIO DE CARNES EIRELI ME;;(27) 3254-2285 (27) 3254-1765 (27) 99910-0928;R. Lindolfo Cipreste - Vila Independência, Cariacica - ES, 29148-611;;
+;Cariacica - ES;D'Frango Abatedouro & Frigorífico;Andressa;(27) 3226-0929;Av. Leopoldina, 1048 - Campo Grande, Cariacica - ES, 29146-430;;
+;Cariacica - ES;D'Frango Abatedouro;;(27) 3236-6259;R. da Assembléia, 23 - Porto de Santana, Cariacica - ES, 29153-084;;
+;Castelo - ES;Uniaves;Camila Lozorio  / Manutenção Gabriel Duarte;(28) 3542-8400;R. Felinto Elysio Martins, nº 1000, Castelo - ES, 29360-000;"camila.lozorio@uniaves.com.br; gabriel.duarte@uniaves.com.br";
+;Colatina - ES;FRISA - Frigorífico Rio Doce S.A.;frisaeco@frisa.com.br;(27) 3723-3200;Av. Fioravante Rossi, 4000 - Honório Fraga, Colatina - ES, 29704-426;;
+;Guaçuí - ES;Frigorífico FrigoLeo;;(27) 3327-5622;ES-185, Guaçuí - ES, 29560-000;;
+;Linhares - ES;Frigorifico JC Alimentos;;;;;
+;Linhares - ES;Proteinorte Alimentos - Kifrango e Xiken;Aparecida e Breno;27 2103.1133;Rua Henrique Coimbra, 469 CEP 29903-105 Interlagos – Linhares/ES;compras@proteinorte.com.br;
+;Montanha - ES;Frigorífico Montanha ltda;Gustavo;(27) 3754-1391;Av. Nossa Sra. Aparecida, s/n - Angelo de Pollo, Montanha - ES, 29890-000;financeiro@frimont.com.br;
+;Rod. Gov. Mário Covas, KM 228 - Centro, Fundão - ES, 29185-000;Forte Boi Indústria de Alimentos LTDA;Fábia Gomes - Setor de Compras - 27 99799-9284 /Manutenção -  Percival 27 99946-4199;(27) 3267-1144  Ramal - 230;Rod. Gov. Mário Covas, KM 228 - Centro, Fundão - ES, 29185-000;compras@forteboi.ind.br;
+;Santa Maria de Jetibá-ES;Abatedouro de aves Stange Indústria e Comércio Ltda;Roberto (sac@frangossaudaveis.com.br);(27) 3263-0035 (27) 3140-0035 (27) 99981-0837;Rodovia Luiz Stange Km 08, Recreio, Santa Maria de Jetibá-ES 29645-000;saudaveis@hotmail.com;
+;São Mateus - ES;KS ABATEDOURO LTDA ME;http://www.ksabatedouro.com.br/;(27) 99963-1697;São Mateus - ES;;
+;Serra - ES;Cia do Boi;http://www.ciadoboi.com/;(27) 3228-3000;R. Ilma Henriques, 2 - Jardim Limoeiro, Serra - ES, 29164-082;;
+;Serra - ES;Frigorífico Litoral Ltda;;(27) 3338-5195;R. Nove, 289 - Das Laranjeiras, Serra - ES, 29161-831;;
+;Vargem Alta - ES;Frigorífico Sempre Amigo;;(28) 3525-1047;Vargem Alta - ES, 29295-000;;
+;Viana - ES;Frigorífico Frilara;;(27) 3344-6845;R. Rio de Janeiro, 13 - Areinha, Viana - ES, 29135-000;;
+;Viana - ES;Frigorífico Zucoloto;Ricardo;(27) 3011-9373;Viana - ES, 29135-000;frigorificozucoloto@hotmail.com;
+;Viana - ES;BRF - ES;;(27) 3246-1516;Parque Industrial, Viana - ES, 29135-000;;
+;Vila Velha - ES;Frigorífico Frincarnes;João SEM INTERESSE;(27) 3391-0985;R. José Rosalém, 5 - Santa Mônica, Vila Velha - ES, 29105-645;;
+;Vila Velha - ES;KAJORY - Frigorífico Kinka Régis;mkt@kajory.com.br;(27) 3316-9585;Fazenda Kinka Régis, s/nº, - Cobilândia, Vila Velha - ES;;
+;Vila Velha - ES;D'Frango;;(27) 3349-2883;Av. Sérgio Cardoso, 120 - Nova Itaparica, Vila Velha - ES, 29104-233;;
+;Vila Velha - ES;DalCol Carnes;http://dalcolcarnes.com.br/;(27) 3286-2408;R. Anhanguera, 287 - Cristóvão Colombo, Vila Velha - ES, 29100-000;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;Duque de Caxias - RJ;Friganso;vendas@friganso.com.br;(21) 2757-5710;Av. Arthur Antônio Sendas, 30 - Parque Analândia, Duque de Caxias - RJ, 25585-021;;
+;Rio de Janeiro - RJ;Cantagalo - Frigorífico;contato@cantagalofrigorifico.com.br;(21) 2513-0148 | (21) 2523-7639;Estr. do Engenho d'Água, 1330 - Anil, Rio de Janeiro - RJ, 22765-240;;
+;Rio de Janeiro - RJ;FrigoCopa;comercial@frigocopa.com.br  ;(21) 2574-1414;R. Sotero dos Reis, 13 - Praca da Bandeira, Rio de Janeiro - RJ, 20270-200;;
+;Rio de Janeiro - RJ;Frigorífico Bandeirantes;;(21) 2234-9266;R. Sotero dos Reis, 31 - São Cristóvão, Rio de Janeiro - RJ, 20270-200;;
+;Rio de Janeiro - RJ;Marechal Alimentos;falecom@marechalalimentos.com.br;(21) 96922-0008;R. Ana Neri, 1183 - Rocha, Rio de Janeiro - RJ, 20960-002;;
+;Rio de Janeiro - RJ;FRIGOMAR COMERCIAL ALIMENTOS LTDA;;(21) 2584-7092;R. da Soja, 74 - Penha Circular, Rio de Janeiro - RJ, 21011-100;;
+;Rio de Janeiro - RJ;Vipaz Frigorífico Comércio C R;;(21) 3847-3877;Av. Pref. Sá Lessa, 471 - Acari, Rio de Janeiro - RJ, 21530-040;;
+;Rio de Janeiro - RJ;Frisa Frigorífico Rio Doce;;;Av. das Américas, 700 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-100;;
+;Rio de Janeiro - RJ;Poli Meat Alimentos Ltda;;(21) 3889-2700;Rua do Trigo, 87 - Penha Circular, Rio de Janeiro - RJ, 21011-690;;
+;São João de Meriti - RJ;Frigorífico Novo Meriti;contato@novomeriti.net;(21) 2755-9901;Av. Arthur Antônio Sendas, 1752 - Pqe Analandia, São João de Meriti - RJ, 25585-020;;
+;São João de Meriti - RJ;QUEBRAMAR CARNES;;(21) 3753-4981;R. Maria Gonzaga, 19 - Vila Norma, São João de Meriti - RJ, 25535-482;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;Marfrig Frigorífico e Comércio de Alimentos;;(19) 3811-7023;Rua Benedito Pereira 415, SP, 13840-000;;
+;Artur Nogueira - SP;Transui Frigorífico de Suínos;Valdemir Claro;(19) 3877-2129 (19) 97402-2894;R. São Bento, 613 - Jd Ricardo Duzzi, Artur Nogueira - SP, 13160-000;valdemirclaro@transui.com.br;
+;Bariri - SP;Frigorífico Fribordogue;Elaine;(14) 3662-9610;Rodovia Deputado Leônidas Pachêco Ferreira, Km 327, s/n - Zona Rural, Bariri - SP, 17250-000;compras@fribordogue.com.br;
+;Barretos - SP;Minerva Foods;Alexandre Rodrigues;(17) 3321-3355;Av. Antônio Manso Bernardes, S/N - Chácara Minerva, Barretos - SP, 14781-545;compras-corporativa@minervafoods.com;
+;Bauru - SP;ZANCHETTA INDUSTRIA DE ALIMENTOS LTDA;geral;(14) 2106-1833;Av. Rosa Malandrino Mondelli, 7 - Núcleo Habitacional Mary Dota, Bauru - SP, 17025-779;suprimentos.bauru@zanchetta.com.br;
+;Bauru - SP;Frigorífico Vangelio Mondelli;;(14) 3239-1833;Av. Rosa Malandrino Mondelli, 1000 - Nucleo Hab. Mary Dota, Bauru - SP, 17025-779;;
+;Brotas - SP;Frigorifico Campo Alegre;Osmar;(14) 3653-1375;Rod SP 225 Km 110,5, s/n - Campo Alegre - Brotas/SP;compras@stoignacio.com.br ;
+;Carapicuíba - SP;Frigorífico Raja Ltda;Fabio Macedo;(11) 2104-7300;Av. Francisco Pignatari, 17 - Vila Gustavo Correia, Carapicuíba - SP, 06310-390;compras@frigorificoraja.com.br;
+;Cruzeiro - SP;Frigorífico Cleumar;;;R. Ver. Aurélio Garcês Novaes, 357 - Itagaçaba, Cruzeiro - SP, 12730-130;;
+;Estrela D'Oeste - SP;Frigorífico Estrela d´Oeste Ltda;Sidoval Silvestrin (17) 997429498;(17) 3833-2800;R. Mato Grosso, 670 - zona rural, Estrela D'Oeste - SP, 15650-000;;sidoval.silvestrin@frigoestrela.com.br
+;Fartura - SP;Piscicultura Cristalina - Frigorífico;vendas@cristalina.net.br;011 2858-4094 - 014 3382-3547;Estrada de Acesso de Fartura à SP287, sn Bairro dos Veados, Fartura - SP CEP: 18870-000;;
+;Guapiaçu - SP;Frigorífico Dom Peter;Pedro Henrique;(17) 3222-6661 (17) 3304-2216;Rod. Assis Chateaubriand, S/n - Luzitânia, Guapiaçu - SP, 15110-000;contato@dompeter.ind.br;
+;GUARANTÃ-SP;Frigorifico Avícola Guarantã LTDA;contato@frangosnoroeste.com;(14)3586-1689;Av. Silvio do Prado Queiroz, 1, Guarantã - SP, 16570-000;;
+;Itapira - SP;Frigorífico Avícola Família;contato@frangouniao.com.br;(19) 3843-1269 / 2375 ;Estrada Municipal Abatedouro União - La Motel Seducao, s/n - Centro, Itapira - SP, 13970-030;;
+;Itapuí - SP;Frigorífico Itabom;Matheus Fantin;(14) 3664-9100 - (14) 3664-9022;Rodovia Ângelo Poli, KM 01 – Distrito Industrial;matheus.fantin@itabom.com.br;
+;Ituperava - SP;Marfrig S/A - Frigorifico;Heitor Fernandes;(11) 45937400;Via de Acesso Shuhei Uetsuka, s/n - Km 2, Promissão - SP, 16370-000;heitor.fernandes@marfrig.com.br;
+;Lençóis Paulista - SP;FRIGOL S.A. (SUÍNOS);Tiago Blanco;(14) 3269-3900;R. Europa, 46-228 - Distrito Industrial II Luiz Trecenti, Lençóis Paulista - SP;tiago.blanco@frigol.com.br;
+;Onda Verde - SP;Frigorífico Frigo Espanha;sac@frigoespanha.com.br;(17) 3268-1342 ;R. Um, Onda Verde - SP, 15450-000;;
+;Paraíso - SP;Frigorífico Suiba;sac@suiba.com.br;(17) 3567-9090;Rodovia, Anel Viário Paulino Alberguini, Nº 110 - Jardim São Paulo, Paraíso - SP, 15825-000;;
+;Pirapozinho - SP;Naturafrig Alimentos;contato@naturafrig.com.br;(18) 3269-9999;Rod. Assis Chateaubriand, s/n km 476 Área Rural de Pirapozinho/SP - Cep: 19200-000;;
+;Potirendaba - SP;Frigopoti Frigorífico;Lupércio;(17) 3249-3131;Rdv Vicinal Abel Pinho Maia, KM 11,5, Potirendaba - SP, 15105-000;contato@frigopoti.com.br;
+;Pres. Prudente - SP;Bon-Mart Frigorífico;Marcia;(18) 3901-3500;Av. Ana Jacinta, 335 - Jardim Bon-Mart, Pres. Prudente - SP, 19027-380;compras2@bonmart.com.br;
+;Rancharia - SP;Frigorífico Better Beef;http://www.betterbeef.com.br/;(18) 3265-9510;Rodovia SP 284, S/N - Água das Lavadeiras, Rancharia - SP, 19600-000;;
+;Santa Bárbara d'Oeste - SP;Frigorifico Santa Marta Ltda;;(19) 3406-2687;R. Iacanga, 1105 - Jardim Ipiranga, Santa Bárbara d'Oeste - SP, 13468-590;;
+;Santa Cruz do Rio Pardo - SP;Abatedouro Beira Rio;Fernando;(14) 3332-2800;R. Eufrosino Martins, 215 - Bairro São José, Santa Cruz do Rio Pardo - SP, 18900-000;contato@bafari.com.br;
+;Santana de Parnaíba - SP;Frigorífico Frisil;Adriana;(11) 4705-9800;R. Florianópolis, 333 - Jardim Leda (Fazendinha), Santana de Parnaíba - SP, 06529-302;contato@frisil.com.br;
+;Santo André - SP;Marfrig Frigoríficos Comércio Alimentos;;(11) 4422-7200;R. Acarape, 559 - Jardim Cambui, Santo André - SP, 09185-490;;
+;São Bernardo do Campo - SP;Frigorífico Marba;SAC@MARBA.COM.BR;(11) 4176-7000;Av. Cézar Magnani, 971 - Paulicéia, São Bernardo do Campo - SP, 09694-000;;
+;São Caetano do Sul - SP;Bilisko (Cardeal Indústria e Comércio de Alimentos);cardeal@fcardeal.com.br;(11) 4239-4068;R. Vinte e Oito de Julho, 25/49 - Fundação, São Caetano do Sul - SP, 09520-600;;
+;São Caetano do Sul - SP;Frigorífico Cardeal Indústria e Comércio;Susana;(11) 4227-9600;R. Mariano Pamplona, 305 - Fundação, São Caetano do Sul - SP, 09520-440;compras@fcardeal.com.br;
+;São Carlos - SP;Frigorífico Suíno Leve Ind Com LTDA;;(16) 3375-3199;Rua Elizário Fernandes de Araújo, 432 - Jardim Cruzeiro do Sul, São Carlos - SP, 13572-130;;
+;São José do Rio Preto - SP;Frig West Frigorífico;;(17) 3236-2066;R. XV de Novembro, 3171 - Centro, São José do Rio Preto - SP, 15015-110;;
+;São Paulo - SP;S/A Frigorífico Anglo;;(11) 2618-3103;R. da Mooca, 1736 - Brás, São Paulo - SP, 03103-000;;
+;São Paulo - SP;Frigorífico Frimar;;(11) 2545-6510;Rua Rio Farias, 56 - Vila Jacuí, São Paulo - SP, 03813-370;;
+;São Paulo - SP;Arfrio S.A. Armazéns Gerais Frigoríficos - Centro Administrativo;Waldemar Barbosa;(11) 5501-6600;R. Dr. Geraldo Campos Moreira, 240 - Cidade Monções, São Paulo - SP, 04571-020;wbarbosa@arfrio.com.br;
+;São Paulo - SP;Touro Frigorífico;http://www.frigorificotouro.com.br/;(11) 2056-5198;R. Italina, 492 - Itaquera, São Paulo - SP, 08290-705;;
+;São Paulo - SP;Frigorífico Santa Catarina;PARADO;(11) 5563-9531;R. Charles Darwin, 459 - Vila Santa Catarina, São Paulo - SP, 04379-060;;
+;São Paulo - SP;Frigbrasil Comercial de Carnes e Alimentos;Vanessa;(11) 2951-4005;R. Combate da Lagoa Branca, 150 - Vila Sabrina, São Paulo - SP, 02141-080;compras@frigbrasil.com.br;
+;São Paulo - SP;Frigorífico Pacífico;pacifico@frigorificopacifico.com.br;(11) 3831-2401;Rua Dr. Seidel, 300 - Vila Leopoldina, São Paulo - SP, 02675-031;;
+;São Paulo - SP;Frigorífico Torres;Wilson;(11) 5011-1255;Av. Gen. Valdomiro de Lima, 125 - Jabaquara, São Paulo - SP, 04344-070;contato@frigorificotorres.com.br;
+;São Paulo - SP;Frigorífico Milano Biagio;Fabiano Milano;(11) 3806-0000;R. Padre Senepa, 224 - Vila Monumento, São Paulo - SP, 04264-100;fabianomilano@uol.com.br;
+;São Paulo - SP;Frigorífico Pacífico;pacifico@frigorificopacifico.com.br;(11) 3831-6000;Rua Baumann, 300 - Vila Leopoldina, São Paulo - SP, 05318-000;;
+;São Paulo - SP;Abatedouro Coroaves Ltda - FRANGO MARINGÁ;;(11) 2024-6060;Av. Vila Ema, 2205 - Sao Lucas, São Paulo - SP, 03281-000;;
+;Sertãozinho - SP;Barra Mansa Com de Carnes e Derivados;José Marques;(16) 2105-5300;Sítio Nossa Senhora Aparecida, s/n - Zona Rural, Sertãozinho - SP, 14160-970;jose.marques@barramansaalimentos.com.br;
+;Suzano - SP;Frigorífico Suzano;Juliana;(11) 4748-0878;Estr. do Mizukami, 410 - Estância Americana, Suzano - SP, 08630-210;juliana@frigorificosuzano.com.br;
+;Tietê - SP;Frigorífico Cancian;cancian@cancian.com.br;(15) 3282-3833;R. Vila Nova, 1797 - Vila Nova, Tietê - SP, 18530-000;;
+;Várzea Paulista - SP;Ad'oro;http://www.adoro.com.br/;(11) 4596 - 8400;Rodovia SPA-053/332 s/n Do, R. Arnoldo Gut Jr., SP, 13226-400;;
+;Votuporanga - SP;Frigorífico Avícola Votuporanga Ltda;frangorico@frangorico.com.br;(17) 3405-9500;Av. Dr. Augusto Ap. Arroyo Marchi, 3545 IV Distr. Industrial Ronaldo A. David Sayeg CEP: 15507-000. Votuporanga - SP;;
