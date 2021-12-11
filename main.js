@@ -37,7 +37,7 @@ records.map(record => {
 
   record.rua = match[1];
   record.numero = match[5];
-  record.bairro = match[7];
+  record.bairro = match[8];
 
   console.log(record);
 })
