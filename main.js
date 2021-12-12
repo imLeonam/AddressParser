@@ -9,10 +9,15 @@ const records = parse(input, {
   skip_empty_lines: true
 });
 
+
 //CEP
+let cepCount = 0;
 records.map(record => {
   let match = (/(C[Ee][Pp]:?)? (\d{5}[- ]\d{3})/g).exec(record.endereco);
-  if (!match) return;
+  if (!match) {
+    cepCount++;
+    return;
+  };
 
   record.cep = match[2];
   record.endereco = record.endereco.replace(match[0], '');
@@ -48,7 +53,7 @@ records.map(record => {
   if (!match) return;
 
   record.UF = match[1].trim();
-  record.cidade = record.endereco.replace(match[3,4], '');
+  record.cidade = record.endereco.replace(match[3, 4], '');
 
   console.log(record);
 })
@@ -66,18 +71,20 @@ records.map(record => {
 
 //Site
 records.map(record => {
-let match = (/(http:\/\/(\w+\.[A-z]+\.(\w+)?\.(\w+)?\/?))/g).exec(record.site);
-if (!match) return;
+  let match = (/(http:\/\/(\w+\.[A-z]+\.(\w+)?\.(\w+)?\/?))/g).exec(record.site);
+  if (!match) return;
 
-record.site = match[1];
+  record.site = match[1];
 
-console.log(record);
+  console.log(record);
 })
 
 
 let csv = "";
 records.map(record => {
-  csv += `${record.nome||''};${record.email||''};${record.telefone||''};${record.site||''};${record.cidade||''};${record.rua||''};${record.numero||''};${record.bairro||''};${record.cep||''};${record.UF||''};\n`;
+  csv += `${record.nome || ''};${record.email || ''};${record.telefone || ''};${record.site || ''};${record.cidade || ''};${record.rua || ''};${record.numero || ''};${record.bairro || ''};${record.cep || ''};${record.UF || ''};\n`;
 })
 
-fs.writeFileSync('OUTPUT.csv', csv, {encoding: 'latin1'});
+console.log("cepCount: " + cepCount);
+
+fs.writeFileSync('OUTPUT.csv', csv, { encoding: 'latin1' });
