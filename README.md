@@ -8,7 +8,7 @@
 - Install node dependencies:
 
 ```bash
-npm intall csv-parse or npm install
+npm intall csv-parse
 ```
 
 - To run the project use:
